@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Sailing Vessel Plume
+#email: plume@flupes.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Voyage of a Norsea'27, Plume.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://plume.flupes.org" # the base hostname & protocol for your site, e.g. http://example.com
+#github_username:  flupes
+
+# Show post excerpts
+show_excerpts: true
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - journey.md
+  - blog.md
+  - projects.md
+  - about.md
+
+responsive_image:
+  template: _includes/responsive-image.html
+  base_path: assets/media/imgs
+  sizes:
+    - width: 800
+      quality: 65
+    - width: 1280
+      quality: 75
+    - width: 1920
+      quality: 85
+  strip: true
+  save_to_source: false
+
+exclude:
+  - README.md
+  - INSTALL.md

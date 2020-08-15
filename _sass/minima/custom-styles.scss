@@ -1,0 +1,28 @@
+// SV Plume Custom Styles
+
+.img-left {
+  float: left;
+  width: 45%;
+  margin-top: 0.5em;
+  margin-right:1em;
+  margin-bottom: 0;
+  margin-left: 0;
+  border-radius: 0.5em;
+}
+
+.img-right {
+  float: right;
+  width: 45%;
+  margin-top: 0.5em;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 1em;
+  border-radius: 0.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300;600&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Jura:wght@400;600&display=swap');
