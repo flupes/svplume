@@ -21,7 +21,7 @@ Pictures of some of Plume California's adventures can be found in the
 {% responsive_image path: assets/media/imgs/journey/Journey_Plume_Construction.jpg alt: construction class: img-right %}
 ## 2001-2002: Plume's Construction
 
-Plume was built in the Nor'Sea Yachts boatshop in Ontario (CA). We bought her as
+Plume was built at the Nor'Sea Yachts boatshop in Ontario (CA). We bought her as
 a Kit boat #3, which included the hull, deck, main cabinetry, and standing
 rigging. Everything else was left for us to do, like painting, trimming,
 plumbing, electricity, or deck equipment. We spent many weekends down at the
