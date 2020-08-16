@@ -1,5 +1,5 @@
 The Titilium font used here is licensed under Open Font License as expressed 
-in the **(OFL.txt)** file.
+in the **[OFL.txt](./OFL.txt)** file.
 
 The full font package is available at:
 https://fonts.google.com/specimen/Titillium+Web#about
