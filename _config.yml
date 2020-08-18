@@ -33,7 +33,7 @@ plugins:
 header_pages:
   - journey.md
   - blog.md
-  - projects.md
+  - projects/index.md
   - about.md
 
 responsive_image:

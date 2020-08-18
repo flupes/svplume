@@ -7,8 +7,9 @@ layout: default
 {% responsive_image path: assets/media/imgs/projects/project-wood.jpg alt: "Wood Work" %}
 
 ---
-## Project 1
-Short description and link to new page.
+## Yearly Exterior Maintenance 
+The yearly exterior maintenance includes [teak wood, gelcoat on deck, and topsides paint](/projects/maintenance).
+
 
 ---
 ## Project 2
