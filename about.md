@@ -28,7 +28,7 @@ were working there every other weekend during six month. Beside the advantage of
 having professional tools, we learned a lot form Bob and his excellent carpenter
 Alonso.
 
-![Norsea 27 Profile](/assets/media/imgs/profile.gif){:.center-image}
+![Norsea 27 Profile](/assets/media/imgs/about/profile.gif)
 
 ## Specifications
 
