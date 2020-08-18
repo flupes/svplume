@@ -14,7 +14,7 @@ adventures. This site is mostly for ourselves and our close friends, but it is
 open to anyone who shares our love of sailing and of the Norsea 27!
 
 This log is coupled with a Photo-Blog accessible on the right side bar
-[Photo Gallery](https://photos.flupes.family/Public/Plume/)(sail or technical).
+[Photo Gallery](https://photos.flupes.family/Public/Plume/)(sailing or technical).
 
 We hope to be able to update this site frequently!
 
