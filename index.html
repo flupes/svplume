@@ -4,8 +4,20 @@ layout: default
 ---
 
 <div class=landing-frame>
-    <img src="/assets/media/imgs/home/plume_sanblas-1920x2703.jpg" alt="Plume" class="landing-img" 
-        srcset="/assets/media/imgs/home/plume_sanblas-800x1126.jpg 800w, /assets/media/imgs/home/plume_sanblas-1280x1802.jpg 1280w, /assets/media/imgs/home/plume_sanblas-1920x2703.jpg 1920w, /assets/media/imgs/home/plume_sanblas.jpg 2432w" />
-    <img src="/assets/media/imgs/home/SailLogo_Wavy_Transparent.png" class="logo-img"
-        srcset="/assets/media/imgs/home/SailLogo_Wavy_Transparent.png 1280w, /assets/media/imgs/home/SailLogo_Wavy_Transparent.png 1920w" />
+    <picture>
+        <source media="(orientation: landscape)" class="landing-img"
+            srcset="/assets/media/imgs/home/plume_sanblas-cropped-800.jpg 800w,
+                /assets/media/imgs/home/plume_sanblas-cropped-1200.jpg 1200w,
+                /assets/media/imgs/home/plume_sanblas-cropped-1920.jpg 1920w"
+        />
+        <source media="(orientation: portrait)" class="landing-img"
+            srcset="/assets/media/imgs/home/plume_sanblas-800.jpg 800w,
+                /assets/media/imgs/home/plume_sanblas-1200.jpg 1200w,
+                /assets/media/imgs/home/plume_sanblas-1920.jpg 1920w"
+        />
+        <img src="/assets/media/imgs/home/plume_sanblas-800.jpg" class="landing-img"
+            alt="Plume in San Blas" />
+    </picture>
+    <img src="/assets/media/imgs/home/SailLogo_Wavy_Transparent_Small.png" class="logo-img"
+        srcset="/assets/media/imgs/home/SailLogo_Wavy_Transparent_Small.png 1200w, /assets/media/imgs/home/SailLogo_Wavy_Transparent.png 1920w" />
 </div>

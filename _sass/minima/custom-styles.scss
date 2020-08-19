@@ -71,26 +71,26 @@ h1, h2, h3, h4, h5, h6 {
   .landing-img {
     display: block;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    height: 120vh;
+    height: 100%;
+    // height: 120vh;
     width: auto;
   }
 
   .logo-img {
     display: block;
     position: absolute;
-    height: 25vh;
-    width: auto;
+    width: 20%;
+    height: auto;
+    // height: 25vh;
     top: 5%;
-    left: 20%;
+    left: 10%;
   }
 }
 
 @media all and (orientation: portrait) {
   .landing-img {
     position: relative;
-    width: 90%;
+    width: 100%;
     height: auto;
   }
 
