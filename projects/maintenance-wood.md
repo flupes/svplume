@@ -44,7 +44,8 @@ as varnish... although it does not have its beautiful glossy finish.
 ---
 ### Preparation
 
-Prepare the deck by removing anything in the way, like lifelines, spinnaker pole, anchor, and hardware as needed.
+Prepare the deck by removing anything in the way, like lifelines, spinnaker
+pole, anchor, and hardware as needed.
 
 ---
 {% responsive_image path: assets/media/imgs/projects/maintenance_wood_sanding-1600x1200.jpg
@@ -91,9 +92,9 @@ is dry, apply one coat of Cetol Marine Natural Teak. A few tips:
   the environment.
 
 ---
-### Day 4: Coat 2
-
 {% responsive_image path: assets/media/imgs/projects/maintenance_wood_painting-1600x1200.jpg alt: Don class: img-right %}
+
+### Day 4: Coat 2
 
 *Duration: 3 hours*
 
