@@ -9,7 +9,7 @@ layout: default
 ## Yearly Exterior Teakwood Maintenance
 When it comes to teakwood maintenance, we first tried teak oil: It was easy to apply, but did not last or effectively protect the wood. 
 
-Second, we tried varnish: The teak looked amazing, but it was way too much work. 
+Second, we tried [varnish (Bristol Finish)](/2006/new-paint/): The teak looked amazing, but it was way too much work. 
 
 Eventually, and since 2011, we adopted a solution that works for us: [Cetol Marine Natural Teak](https://www.interlux.com/en/us/boat-paint/varnish/cetol-marine-natural-teak). It makes yearly maintenance manageable with only 2 to 3 coats and no sanding between coats. It nicely protects the wood and the result looks almost as good as varnish... although it does not have its beautiful glossy finish. 
 
@@ -38,7 +38,7 @@ Prepare the deck by removing anything in the way, like lifelines, spinnaker pol
 
 *Duration: 6 hours for all the exterior teak except hatches (add a maximum of 1 hour per hatch)*
 
-Use 220-320 grit paper to lightly sand the teak with a goal of removing all gloss. A flexible paper is best for round shapes and could be used with an angle sanding block on flat surfaces; angles help avoid damaging adjacent surfaces.
+Use 220-320 grit paper to lightly sand the teak with a goal of only removing the gloss (i.e. without going back to the wood unless there is a local problem). A flexible paper is best for round shapes and could be used with an angle sanding block on flat surfaces; angles help avoid damaging adjacent surfaces.
 
 {% responsive_image path: assets/media/imgs/projects/maintenance_wood_sanding-1600x1200.jpg alt: Sanding %}
 
@@ -67,8 +67,12 @@ Remove any dust by cleaning the surfaces adjacent to the wood with a soft cleani
 
 *Duration: 3 hours*
 
-Inspect the previous coat and remove any insects or other debris with the 3M Scotch Brite brown pad. Then repeat what was done for coat 1. 
+Inspect the previous coat and remove any insects or other debris with the 3M Scotch Brite brown pad. Then repeat what was done for coat 1.
 
-Repeat Day 4 if you need a third coat. Remove the tape right after the last coat. Let Cetol cure for about one week before returning sailing.
+---
+
+Repeat Day 4 if a third coat is needed. Remove the tape right after the last coat. 
+
+Let Cetol cure for about one week before returning sailing. In the meantime, work on the [deck's gelcoat](/projects/maintenance-wood) and [topsides' paint](/projects/maintenance-topsides) and put the deck back together.
 
 {% responsive_image path: assets/media/imgs/projects/maintenance_wood_painting-1600x1200.jpg alt: Done%}
