@@ -71,9 +71,9 @@ h1, h2, h3, h4, h5, h6 {
   .landing-img {
     display: block;
     position: relative;
-    height: 100%;
+    width: 100%;
     // height: 120vh;
-    width: auto;
+    height: auto;
   }
 
   .logo-img {
