@@ -88,4 +88,4 @@ service morphed into a replacement after it was badly damaged during shipping.
 Since the responsibility of the accident was shared between Scan Marine and
 ourself, they agreed to send us another used replacement stove. So basically, we
 have a new old stove! Those are just examples. More information can be found
-under Projects [???].
+under [Projects](/projects/).
