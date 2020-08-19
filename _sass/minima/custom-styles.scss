@@ -63,3 +63,21 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 0.5em;
 }
 
+.landing-frame {
+  position: relative;
+}
+.landing-img {
+  width: 80%;
+  height: auto;
+}
+
+.logo-img {
+  width: 20%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.stop-wrap {
+  clear: both;
+}
