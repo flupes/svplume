@@ -6,19 +6,41 @@ layout: default
 
 {% responsive_image path: assets/media/imgs/projects/maintenance-topsides-banner.jpg alt: "Topside" %}
 
-Plume's topsides were originally dark blue with cream stripe.
 
-Secondly, we had the Plume’s topsides repainted by a boat yard. The original
-gelcoat was showing signs of oxidation. This is probably due to a lack of
-maintenance from our part (our experience with a varnished plywood/epoxy hull
-made us thought that fiberglass was maintenance free!). 
+### Yearly Topsides Maintenance 
 
-Anyway, it was time for
-a refresh and since we could choose any color we wanted, we decided to reverse
-Plume’s original colors. This was a tough decision because we loved our Blue
-Boat. However, we are hoping that a light color will last longer and generate
-less heat inside the boat if we go farther south. 
+The gelcoat on Plume's topsides was originally navy blue with a cream stripe. Unfortunately, with zero gelcoat maintenance during several years, the navy blue eventually started to show signs of oxidation. Hence we decided to get the topsides repainted by a boat yard. We reversed the colors, hoping that a light color will last longer and generate
+less heat inside the boat (both turned-out to be correct). The boat yard used a linear polyurethane (AWLGRIP). Here is how we maintain it once a year.
 
-The boat yard did an excellent
-job and Plume has now beautiful cream topsides with a navy stripe. They used a linear polyurethane (AWLGRIP) that is
-supposed to last much longer than gelcoat and require less maintenance as well.
+---
+### Step 1: Wash
+
+*Duration: 1/2 hour per side*
+
+**Material**
+- [AWLGRIP Awlwash](https://www.awlgrip.com/products/boatcare/awlwash): 1 ounce (30 ml) of Awlwash per each gallon (3.785 liters) of waters
+- Soft (non abrasive) sponge
+- Chamois (or soft cotton towel)
+
+**Application**
+- Rinse the surface thoroughly prior to washing.
+- Wash surface while still wet using a soft sponge. Do not allow Awlwash to dry on the surface prior to rinsing. Wash small sections of large surfaces to insure the surface stays wet. Rinse after washing. 
+- Wipe with chamois to prevent water spots.
+
+---
+### Step 2: Protect
+
+*Duration: 2 hour per side*
+
+**Material**
+- [AWLGRIP Awlcare](https://www.awlgrip.com/products/boatcare/awlcare) (protective polymer sealer)
+- 100% cotton applicator or cloth
+
+**Application**
+- Shake Awlcare well and apply with a 100% cotton applicator or cloth (can be applied in sun or shade and to large areas before removing).
+- Wipe off haze with a clean cotton cloth. 
+
+
+
+
+
