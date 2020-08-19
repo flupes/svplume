@@ -106,7 +106,6 @@ Scotch Brite brown pad. Then repeat what was done for coat 1.
 Repeat Day 4 if a third coat is needed. Remove the tape right after the last coat. 
 
 Let Cetol cure for about one week before returning sailing. In the meantime,
-work on the [deck's gelcoat](/projects/maintenance-wood) and
+work on the [deck's gelcoat](/projects/maintenance-gelcoat), [deck's stainless steel](/projects/maintenance-steel) and
 [topsides' paint](/projects/maintenance-topsides) and put the deck back
 together.
-
