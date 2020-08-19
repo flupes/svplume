@@ -43,8 +43,16 @@ on our to-do list, we started sailing her in the San Francisco Bay.
 
 Here is a video [???] of Plume's early adventures on the water.
 
-<br>
-<br>
+---
+
+{% responsive_image path: assets/media/imgs/journey/Journey_GoldenGateCL.jpg alt: Honeymoon class: img-right %}
+## 2003: Plume's First Taste of the Pacific Ocean
+
+During our honeymoon, we took Plume outside the San Francisco Bay for the first time. After crossing the Golden Gate Bridge, the journey took us north to Drakes Bay (near Point Reyes) and Bodega Bay, then south to Monterey, and finally back home via Santa Cruz and Half Moon Bay. 
+
+Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.family/Public/Plume/SailingCA/2003-07Honey-Moon/).
+
+<br class="stop-wrap"/> 
 
 ---
 
