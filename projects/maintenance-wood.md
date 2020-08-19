@@ -34,22 +34,28 @@ Eventually, and since 2011, we adopted a solution that works for us: [Cetol Mar
 Prepare the deck by removing anything in the way, like lifelines, spinnaker pole, anchor, and hardware as needed.
 
 ---
+{% responsive_image path: assets/media/imgs/projects/maintenance_wood_sanding-1600x1200.jpg
+alt: Sanding class: img-right %}
 ### Day 1: Sanding 
 
-*Duration: 6 hours for all the exterior teak except hatches (add a maximum of 1 hour per hatch)*
+*Duration: 6 hours for all the exterior teak except hatches (add a maximum of 1
+hour per hatch)*
 
-Use 220-320 grit paper to lightly sand the teak with a goal of removing all gloss. A flexible paper is best for round shapes and could be used with an angle sanding block on flat surfaces; angles help avoid damaging adjacent surfaces.
+Use 220-320 grit paper to lightly sand the teak with a goal of removing all
+gloss. A flexible paper is best for round shapes and could be used with an angle
+sanding block on flat surfaces; angles help avoid damaging adjacent surfaces.
 
-{% responsive_image path: assets/media/imgs/projects/maintenance_wood_sanding-1600x1200.jpg alt: Sanding %}
+<br class="stop-wrap"/> 
 
 ---
+{% responsive_image path: assets/media/imgs/projects/maintenance_wood_taping-1600x1200.jpg alt: Taping class: img-right %}
 ### Day 2: Taping 
 
 *Duration: 6 hours*
 
 Carefully align the tape to the wood while leaving a tiny space between the two in order to allow the Cetol to attach to the surface around the wood.
 
-{% responsive_image path: assets/media/imgs/projects/maintenance_wood_taping-1600x1200.jpg alt: Taping%}
+<br class="stop-wrap"/> 
 
 ---
 ### Day 3: Coat 1
@@ -65,10 +71,11 @@ Remove any dust by cleaning the surfaces adjacent to the wood with a soft cleani
 ---
 ### Day 4: Coat 2
 
+{% responsive_image path: assets/media/imgs/projects/maintenance_wood_painting-1600x1200.jpg alt: Don class: img-right %}
+
 *Duration: 3 hours*
 
 Inspect the previous coat and remove any insects or other debris with the 3M Scotch Brite brown pad. Then repeat what was done for coat 1. 
 
 Repeat Day 4 if you need a third coat. Remove the tape right after the last coat. Let Cetol cure for about one week before returning sailing.
 
-{% responsive_image path: assets/media/imgs/projects/maintenance_wood_painting-1600x1200.jpg alt: Done%}
