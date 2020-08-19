@@ -8,7 +8,7 @@ layout: default
 
 ---
 ## Yearly Exterior Maintenance 
-The yearly exterior maintenance includes [teak wood, gelcoat on deck, and topsides paint](/projects/maintenance).
+The yearly exterior maintenance includes [teak wood](/projects/maintenance-wood), [gelcoat on deck](/projects/maintenance-wood), and [topsides paint](/projects/maintenance-topsides).
 
 
 ---
