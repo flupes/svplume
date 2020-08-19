@@ -66,17 +66,42 @@ h1, h2, h3, h4, h5, h6 {
 .landing-frame {
   position: relative;
 }
-.landing-img {
-  width: 80%;
-  height: auto;
+
+@media all and (orientation: landscape) {
+  .landing-img {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 120vh;
+    width: auto;
+  }
+
+  .logo-img {
+    display: block;
+    position: absolute;
+    height: 25vh;
+    width: auto;
+    top: 5%;
+    left: 20%;
+  }
 }
 
-.logo-img {
-  width: 20%;
-  position: absolute;
-  top: 0;
-  left: 0;
+@media all and (orientation: portrait) {
+  .landing-img {
+    position: relative;
+    width: 90%;
+    height: auto;
+  }
+
+  .logo-img {
+    position: absolute;
+    width: 25%;
+    left: 5%;
+    top: 5%;
+  }
 }
+
 
 .stop-wrap {
   clear: both;
