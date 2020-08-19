@@ -65,35 +65,32 @@ h1, h2, h3, h4, h5, h6 {
 
 .landing-frame {
   position: relative;
+  z-index: -10;
 }
 
 @media all and (orientation: landscape) {
   .landing-img {
-    display: block;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    height: 120vh;
-    width: auto;
+    width: 100%;
+    // height: 120vh;
+    height: auto;
   }
-
   .logo-img {
-    display: block;
     position: absolute;
-    height: 25vh;
-    width: auto;
+    width: 20%;
+    height: auto;
+    // height: 25vh;
     top: 5%;
-    left: 20%;
+    left: 10%;
   }
 }
 
 @media all and (orientation: portrait) {
   .landing-img {
     position: relative;
-    width: 90%;
+    width: 100%;
     height: auto;
   }
-
   .logo-img {
     position: absolute;
     width: 25%;
@@ -101,7 +98,6 @@ h1, h2, h3, h4, h5, h6 {
     top: 5%;
   }
 }
-
 
 .stop-wrap {
   clear: both;
