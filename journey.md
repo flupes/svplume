@@ -35,13 +35,13 @@ Pictures of Plume's construction can be found in the
 ---
 
 {% responsive_image path: assets/media/imgs/2002/060_Plume_BeginApril_EnterWater.jpg alt: splashing class: img-right %}
-## 2002: Plume's Splash
+## 2002: Plume's Splash & First Sailings
 
 Plume was splashed at Grand Marina (Alameda, CA) on April 12th 2002, six months
-after the beginning of her construction. Even though we had many projects left
-on our to-do list, we started sailing her in the San Francisco Bay.
+after the beginning of her construction. 
 
-Here is a video [???] of Plume's early adventures on the water.
+Even though we had many projects left
+on our to-do list, we started sailing her in the San Francisco Bay. Here is a [video](https://photos.flupes.family/Public/Plume/SailingCA/FirstSailings/i-QwxLS7F/A) of Plume's very first adventures on the water.
 
 ---
 
@@ -74,7 +74,7 @@ wonderful family adventure!
 
 Pictures of Plume's voyage to Mexico can be found in the
 [Photo Gallery / Sabbatical](https://photos.flupes.family/Public/Plume/Sabbatical).
-There is also a video [???] and a [slide deck](/assets/media/other/PlumeSabbaticalSmall.pdf) that were presented at the
+There is also a [video](https://photos.flupes.family/Public/Plume/Sabbatical/Video/i-6VdXRLw/A) and a [slide deck](/assets/media/other/PlumeSabbaticalSmall.pdf) that were presented at the
 So-Cal Nor'Sea 27 Get-Together in May 2011.
 
 ---

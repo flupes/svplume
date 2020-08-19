@@ -18,11 +18,4 @@ The yearly exterior maintenance includes:
 Consistent yearly maintenance has real benefits over the years: Maintenance remains easy and the boat remains is great condition. People often look quite surprised when we mention that Plume is a 2002 boat, because she still looks like a fairly young lady! 
 
 ---
-## Project 2
-Short description and link to new page.
-
----
-## Project 3
-Short description and link to new page.
-
----
+## New projects coming soon!
