@@ -27,4 +27,6 @@ Open the incoming TCP PORT on the VPS firewall!
 ### Define the webhook on the model
 
 https://github.com/adnanh/webhook/blob/master/docs/Hook-Examples.md
-(real hook is in flit)
+
+(real webhook.json is in `flit` repo)
+
