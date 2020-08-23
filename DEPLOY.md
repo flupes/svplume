@@ -30,3 +30,5 @@ https://github.com/adnanh/webhook/blob/master/docs/Hook-Examples.md
 
 (real webhook.json is in `flit` repo)
 
+- Add a secret key to the github webhook (application/json) and to the webhook.json file
+- Call the `_scripts/deploy-site.sh` script from the webhook.json
