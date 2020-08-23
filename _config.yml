@@ -52,3 +52,5 @@ responsive_image:
 exclude:
   - README.md
   - INSTALL.md
+  - DEPLOY.md
+
