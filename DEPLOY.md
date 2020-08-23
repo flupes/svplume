@@ -32,3 +32,16 @@ https://github.com/adnanh/webhook/blob/master/docs/Hook-Examples.md
 
 - Add a secret key to the github webhook (application/json) and to the webhook.json file
 - Call the `_scripts/deploy-site.sh` script from the webhook.json
+
+## Comments with [staticman](https://github.com/eduardoboucas/staticman)
+
+### Install staticman
+
+    git clone git@github.com:eduardoboucas/staticman.git
+    cd staticman
+    npm install
+    npm audit fix
+    npm audit | grep #
+    # fix manually remaning packages
+    cp config.sample.json config.development.json
+    
