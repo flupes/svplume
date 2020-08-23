@@ -18,6 +18,13 @@ Follow ./INSTALL.md
 ### Add proxy to nginx
 
     # At the end of the /etc/nginx/sites-available/default
-    upstream webhook {
+    upstream webhooks {
         server localhost:PORT;
     }
+
+Open the incoming TCP PORT on the VPS firewall!
+
+### Define the webhook on the model
+
+https://github.com/adnanh/webhook/blob/master/docs/Hook-Examples.md
+(real hook is in flit)
