@@ -1,11 +1,14 @@
 #!/bin/bash
 
-scriptdir=$(dirname $0)
+srcdir=/home/USER/source/svplume
 webdir=/var/www/plume
 
-/usr/bin/git pull
+export GEM_HOME=/home/USER/gems
+export PATH=${PATH}:${GEM_HOME}/bin
 
-cd ${scriptdir}/..
+cd ${srcdir}
+
+/usr/bin/git pull
 
 bundler exec jekyll build
 ret=$?
