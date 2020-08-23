@@ -16,9 +16,9 @@ Bob Eeg.
 
 Lyle Hess wanted a boat small enough to be trailerable, without any concession
 on the seaworthiness. The reasonable size of the NØRSEA 27, its legendary
-robustness and its limited draft have been key points in our choice of a
-sailboat for the San Francisco bay... And later to go down the Baja coast (not
-initially planned)!
+robustness, and its limited draft have been key points in our choice of a
+sailboat for the San Francisco bay... and beyond, like down the Baja coast not
+initially planned!
 
 In addition, the NØRSEA 27 is one of the only sailboat that you can get as a kit
 (3 versions available to complete yourself) on the West Coast. It was important
