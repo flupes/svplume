@@ -4,7 +4,7 @@ permalink: /journey/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/journey/journey_ca.jpg alt: "California Sailing" %}
+{% responsive_image path: assets/media/imgs/journey/journey_ca.jpg alt: "California Sailing" class: img-head %}
 
 Plume’s main sailing ground includes the San Francisco Bay and Delta, as well as
 the nearby Pacific ocean from Bodega Bay to Monterey. The region has

@@ -4,9 +4,9 @@ permalink: /projects/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/projects/project-wood.jpg alt: "Wood Work" %}
+{% responsive_image path: assets/media/imgs/projects/project-wood.jpg alt: "Wood
+Work" class: img-head %}
 
----
 ## Yearly Exterior Maintenance 
 
 The yearly exterior maintenance includes:
