@@ -19,7 +19,7 @@ on the seaworthiness. The reasonable size of the NØRSEA 27, its legendary
 robustness, and its limited draft have been key points in our choice of a
 sailboat for the San Francisco bay, and beyond if the winds are favorable[^update].
 
-[^update]: 7 years after Plume splashing, we passed the Golden Gate for a 2 year 
+[^update]: Seven years after Plume splashing, we passed the Golden Gate for a 2 year 
     trip down to the Sea of Cortez.
 
 In addition, the NØRSEA 27 is one of the only sailboat that you can get as a kit
