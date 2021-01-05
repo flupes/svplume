@@ -101,7 +101,7 @@ service morphed into a replacement after it was badly damaged during shipping.
 Since the responsibility of the accident was shared between Scan Marine and
 ourself, they agreed to send us another used replacement stove. So basically, we
 have a new old stove! Those are just examples. More information can be found
-under [Projects](/projects/).
+under [Projects](/projects/) (coming soon).
 
 Our plan was to trail Plume to Canada and sail in British Columbia during the
 summer of 2020. The project was canceled because of Covid-19. We downgraded our
