@@ -27,5 +27,5 @@ arrived all rested after a good night sleep! The bad news however was that we
 discovered a leak at the thru-hull of the exhaust system :-(
 
 You can follow us in pictures on our
-**[photo gallery](https://photos.flupes.family/Public/Plume/Sabbatical/2008-12aSausalito-SantaBarbara/)**
+**[photo gallery](https://photos.flupes.org/Public/Plume/Sabbatical/2008-12aSausalito-SantaBarbara/)**
 .

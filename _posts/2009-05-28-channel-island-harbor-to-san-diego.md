@@ -8,4 +8,4 @@ categories:
   - Cruising
 ---
 
-Follow us in pictures at [Photo Gallery](https://photos.flupes.family/Public/Plume/Sabbatical/2008-12bChannelIslandHarbor-SanDiego)
+Follow us in pictures at [Photo Gallery](https://photos.flupes.org/Public/Plume/Sabbatical/2008-12bChannelIslandHarbor-SanDiego)

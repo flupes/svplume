@@ -26,4 +26,4 @@ back to the crane a few days later for some adjustments&#8230;. Plume&#8217;s
 trailing adventure is only starting but already promises to be quite
 interesting!
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-04bGuaymas-SanCarlos/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-04bGuaymas-SanCarlos/).

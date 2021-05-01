@@ -9,6 +9,6 @@ categories:
 ---
 Kenzo has invited his very best friends, TJ and Ronan, for a sail on <<his
 boat>> (see <a
-href="https://photos.flupes.family/Public/Plume/SailingCA/2008-09Kenzo-and-Friends/"
+href="https://photos.flupes.org/Public/Plume/SailingCA/2008-09Kenzo-and-Friends/"
 target="_blank">pictures</a>). With kids and family, we ended-up being 10 people
 on board!

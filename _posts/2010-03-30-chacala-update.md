@@ -28,4 +28,4 @@ Well, when Chacala returns to its quiet time, it is certainly a little paradise
 with this great beach bordered by coconut trees. Currently everybody in the bay
 can enjoy the disco from 7pm to 2am!
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-03cChacala/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-03cChacala/).

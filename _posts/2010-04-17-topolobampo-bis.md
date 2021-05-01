@@ -39,4 +39,4 @@ donkeys: we are wondering where they find fresh water&#8230; We collected a lot
 of sand-dollars on the sea side and are ready to continue our progression north
 tomorrow.
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-04aIslaSantaMaria/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-04aIslaSantaMaria/).

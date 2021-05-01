@@ -7,4 +7,4 @@ permalink: /2009/el-gato-and-agua-verde/
 categories:
   - Cruising
 ---
-Follow us in pictures at [Photo Gallery](https://photos.flupes.family/Public/Plume/Sabbatical/2009-04ElGatoAndAguaVerde)
+Follow us in pictures at [Photo Gallery](https://photos.flupes.org/Public/Plume/Sabbatical/2009-04ElGatoAndAguaVerde)

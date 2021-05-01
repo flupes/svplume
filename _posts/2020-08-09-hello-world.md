@@ -10,7 +10,7 @@ categories:
 After 10 years of web silence, we are launching a new website!
 
 This site is coupled with a
-[Photo Gallery](https://photos.flupes.family/Public/Plume) (sail & technical).
+[Photo Gallery](https://photos.flupes.org/Public/Plume) (sail & technical).
 
 We hope to be able to update this site and its blog more frequently!
 

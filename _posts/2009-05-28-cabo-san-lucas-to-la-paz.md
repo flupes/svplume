@@ -7,4 +7,4 @@ permalink: /2009/cabo-san-lucas-to-la-paz/
 categories:
   - Cruising
 ---
-Follow us in pictures at [Photo Gallery](https://photos.flupes.family/Public/Plume/Sabbatical/2009-02CaboSanLucas-LaPaz/)
+Follow us in pictures at [Photo Gallery](https://photos.flupes.org/Public/Plume/Sabbatical/2009-02CaboSanLucas-LaPaz/)

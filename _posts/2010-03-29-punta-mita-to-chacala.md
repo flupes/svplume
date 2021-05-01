@@ -33,4 +33,4 @@ supposedly quiet anchorage is filled with vacationers and the music booms
 everywhere. Still, the bay is lovely and we gained half a degree north in
 latitude!
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-03cChacala/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-03cChacala/).

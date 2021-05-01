@@ -9,9 +9,9 @@ categories:
 ---
 Follow us in pictures:
 
-- [Escondido and Ballandra](https://photos.flupes.family/Public/Plume/Sabbatical/2009-05aEscondidoAndBalandra/)
-- [Isla Coronado to San Carlos](https://photos.flupes.family/Public/Plume/Sabbatical/2009-05bCoronado-SanCarlos)
-- [San Carlos Haul Out](https://photos.flupes.family/Public/Plume/Sabbatical/2009-06SanCarlosHaulOut/)
+- [Escondido and Ballandra](https://photos.flupes.org/Public/Plume/Sabbatical/2009-05aEscondidoAndBalandra/)
+- [Isla Coronado to San Carlos](https://photos.flupes.org/Public/Plume/Sabbatical/2009-05bCoronado-SanCarlos)
+- [San Carlos Haul Out](https://photos.flupes.org/Public/Plume/Sabbatical/2009-06SanCarlosHaulOut/)
     
 Plume is now in Marina Seca San Carlos. Her crew has escaped the summer heat,
 and is now back in the US / Europe for a few months. We will be back soon

@@ -7,4 +7,4 @@ permalink: /2009/sausalito-to-santa-barbara/
 categories:
   - Cruising
 ---
-Follow us in pictures at [Photo Gallery](https://photos.flupes.family/Public/Plume/Sabbatical/2008-12aSausalito-SantaBarbara/)
+Follow us in pictures at [Photo Gallery](https://photos.flupes.org/Public/Plume/Sabbatical/2008-12aSausalito-SantaBarbara/)

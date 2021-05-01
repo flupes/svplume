@@ -27,6 +27,6 @@ them resist the temptations of our modern industrial society so far. We wish
 they will be able to continue living like their ancestors for many more years to
 come!
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-05BarrancasDelCobre/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-05BarrancasDelCobre/).
 
 [Click here for panoramas.](http://www.gigapan.org/gigapans/most_popular/?q=copper-canyon+lorenzo)

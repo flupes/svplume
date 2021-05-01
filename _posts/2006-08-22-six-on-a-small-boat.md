@@ -24,7 +24,7 @@ less than Saturday, so our trip downwind was quite relaxing. Everybody enjoyed
 the long lunch on deck with views to San Francisco.
 
 Photos of the weekend are in
-[this new album](https://photos.flupes.family/Public/Plume/SailingCA/2006-08Sausalito/).
+[this new album](https://photos.flupes.org/Public/Plume/SailingCA/2006-08Sausalito/).
 
 What we learned: Six people can fit on a Norsea 27, but at bedtime, with one
 toddler in the aft cabin and one in the main cabin, there is only the cockpit

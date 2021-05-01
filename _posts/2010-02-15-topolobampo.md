@@ -14,4 +14,4 @@ channel boarded with breakers, we ended-up finding our own uncharted anchorage
 in the delta of a small river. The village looks quite poor, but people in the
 streets seem to be enjoying life peacefully.
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-02TopolobampoAndMazatlan/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-02TopolobampoAndMazatlan/).

@@ -7,4 +7,4 @@ permalink: /2009/ensenada-to-bahia-magdalena/
 categories:
   - Cruising
 ---
-Follow us in pictures at [Photo Gallery](https://photos.flupes.family/Public/Plume/Sabbatical/2009-01Ensenada-BahiaMagdalena/)
+Follow us in pictures at [Photo Gallery](https://photos.flupes.org/Public/Plume/Sabbatical/2009-01Ensenada-BahiaMagdalena/)

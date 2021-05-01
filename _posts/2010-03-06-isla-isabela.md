@@ -18,4 +18,4 @@ At the island south anchorage Plume enjoys the company of three friend boats:
 Tao, Estrella and Caramelo. It&#8217;s fun to hike the small island all
 together.
 
-[Click here for pictures](https://photos.flupes.family/Public/Plume/Sabbatical/2010-03aIsla-Isabela/).
+[Click here for pictures](https://photos.flupes.org/Public/Plume/Sabbatical/2010-03aIsla-Isabela/).

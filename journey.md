@@ -12,7 +12,7 @@ breathtaking scenery, strong current, and hazardous weather. So sailing is
 always interesting!
 
 Pictures of some of Plume California's adventures can be found in the
-[Photo Gallery / California](https://photos.flupes.family/Public/Plume/SailingCA).
+[Photo Gallery / California](https://photos.flupes.org/Public/Plume/SailingCA).
 
 *Below are some highlights of Plume's journey:*
 
@@ -30,7 +30,7 @@ we benefited from the boatshop's tools and expertise. It was hard work but we
 learned a bunch!
 
 Pictures of Plume's construction can be found in the
-[Photo Gallery / Construction](https://photos.flupes.family/Public/Plume/Projects/2002-01-Construction/).
+[Photo Gallery / Construction](https://photos.flupes.org/Public/Plume/Projects/2002-01-Construction/).
 
 ---
 
@@ -42,7 +42,7 @@ after the beginning of her construction.
 
 Even though we had many projects left on our to-do list, we started sailing her
 in the San Francisco Bay. Here is a
-[video](https://photos.flupes.family/Public/Plume/SailingCA/FirstSailings/i-QwxLS7F/A)
+[video](https://photos.flupes.org/Public/Plume/SailingCA/FirstSailings/i-QwxLS7F/A)
 of Plume's very first adventures on the water.
 
 ---
@@ -55,7 +55,7 @@ time. After crossing the Golden Gate Bridge, the journey took us north to Drakes
 Bay (near Point Reyes) and Bodega Bay, then south to Monterey, and finally back
 home via Santa Cruz and Half Moon Bay.
 
-Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.family/Public/Plume/SailingCA/2003-07Honey-Moon/).
+Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.org/Public/Plume/SailingCA/2003-07Honey-Moon/).
 
 <br class="stop-wrap"/> 
 
@@ -78,8 +78,8 @@ challenge at times. But the experience is worth all the effort. It was a
 wonderful family adventure!
 
 Pictures of Plume's voyage to Mexico can be found in the
-[Photo Gallery / Sabbatical](https://photos.flupes.family/Public/Plume/Sabbatical).
-There is also a [video](https://photos.flupes.family/Public/Plume/Sabbatical/Video/i-6VdXRLw/A) and a [slide deck](/assets/media/other/PlumeSabbaticalSmall.pdf) that were presented at the
+[Photo Gallery / Sabbatical](https://photos.flupes.org/Public/Plume/Sabbatical).
+There is also a [video](https://photos.flupes.org/Public/Plume/Sabbatical/Video/i-6VdXRLw/A) and a [slide deck](/assets/media/other/PlumeSabbaticalSmall.pdf) that were presented at the
 So-Cal Nor'Sea 27 Get-Together in May 2011.
 
 ---
@@ -106,5 +106,5 @@ under [Projects](/projects/) (coming soon).
 Our plan was to trail Plume to Canada and sail in British Columbia during the
 summer of 2020. The project was canceled because of Covid-19. We downgraded our
 dreams and continued
-[sailing in California](https://photos.flupes.family/Public/Plume/SailingCA)
+[sailing in California](https://photos.flupes.org/Public/Plume/SailingCA)
 instead.
