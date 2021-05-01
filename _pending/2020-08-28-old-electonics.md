@@ -14,3 +14,5 @@ To understand how we re-fitted Plume's nav station it is important to first unde
 #### Main navigation components
 {% responsive_image path: assets/media/imgs/electro/main_nav_electro.jpg class: img-right %}
 
+*Work in progress... Interrupted by some personal health issue. To be continued*
+
