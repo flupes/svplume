@@ -40,15 +40,20 @@ Pictures of Plume's construction can be found in the
 Plume was splashed at Grand Marina (Alameda, CA) on April 12th 2002, six months
 after the beginning of her construction. 
 
-Even though we had many projects left
-on our to-do list, we started sailing her in the San Francisco Bay. Here is a [video](https://photos.flupes.family/Public/Plume/SailingCA/FirstSailings/i-QwxLS7F/A) of Plume's very first adventures on the water.
+Even though we had many projects left on our to-do list, we started sailing her
+in the San Francisco Bay. Here is a
+[video](https://photos.flupes.family/Public/Plume/SailingCA/FirstSailings/i-QwxLS7F/A)
+of Plume's very first adventures on the water.
 
 ---
 
 {% responsive_image path: assets/media/imgs/journey/Journey_GoldenGateCL.jpg alt: Honeymoon class: img-right %}
 ## 2003: Plume's First Taste of the Pacific Ocean
 
-During our honeymoon, we took Plume outside the San Francisco Bay for the first time. After crossing the Golden Gate Bridge, the journey took us north to Drakes Bay (near Point Reyes) and Bodega Bay, then south to Monterey, and finally back home via Santa Cruz and Half Moon Bay. 
+During our honeymoon, we took Plume outside the San Francisco Bay for the first
+time. After crossing the Golden Gate Bridge, the journey took us north to Drakes
+Bay (near Point Reyes) and Bodega Bay, then south to Monterey, and finally back
+home via Santa Cruz and Half Moon Bay.
 
 Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.family/Public/Plume/SailingCA/2003-07Honey-Moon/).
 
@@ -96,4 +101,10 @@ service morphed into a replacement after it was badly damaged during shipping.
 Since the responsibility of the accident was shared between Scan Marine and
 ourself, they agreed to send us another used replacement stove. So basically, we
 have a new old stove! Those are just examples. More information can be found
-under [Projects](/projects/).
+under [Projects](/projects/) (coming soon).
+
+Our plan was to trail Plume to Canada and sail in British Columbia during the
+summer of 2020. The project was canceled because of Covid-19. We downgraded our
+dreams and continued
+[sailing in California](https://photos.flupes.family/Public/Plume/SailingCA)
+instead.
