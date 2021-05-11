@@ -23,6 +23,10 @@ Thanks Kenzo for saving our backs!
 
 {% responsive_image path: assets/media/imgs/2021/BatteriesCompartment.jpg alt: "New Batteries" %}
 
+*Battery on the left already prepped by raising it with a series of blocks. Just
+one last huge effort combined with enough agility to follow the right path! Note
+the "plank" to help with the manoeuver.*
+
 ### Technical note
   - House batteries:
     - 25.5kg (56lbs) each
