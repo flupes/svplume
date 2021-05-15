@@ -18,8 +18,8 @@ are and how challenging it is to place them in their dedicated box in the engine
 compartment... without mentioning removing the old ones.
 
 Finally we decided to put our son to contribution (for the price of a Boba
-tea:-). Below is a picture of Kenzo devising the best strategy to do the job.
-Thanks Kenzo for saving our backs!
+tea:-). Below is a picture of him devising the best strategy to do the job.
+Thanks Son for saving our backs!
 
 {% responsive_image path: assets/media/imgs/2021/BatteriesCompartment.jpg alt: "New Batteries" %}
 
