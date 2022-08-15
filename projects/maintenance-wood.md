@@ -25,8 +25,7 @@ as varnish... although it does not have its beautiful glossy finish.
 
 - Sikkens Cetol Marine Natural Teak (1 quart)
 - Interlux Special Thinner 216 (cleaning solvent)
-- Sponge brushes (quantity per coat: 2x 3'' large, 2x 2'' medium, 1x 1'' small
-  -- the sponge brushes from Ace Hardware work well)
+- Sponge brushes (quantity per coat: 2x 3'' large, 2x 2'' medium, 1x 1'' small)
 - Paint cup (large enough for the 3'' sponge brush)
 - Sand paper: Mostly 220-320 grit (e.g. 3M Pro Grade Precision 220 Grit Fine
   Ultra Flexible Sanding Roll) including one angle sanding block; A couple of
@@ -89,7 +88,7 @@ is dry, apply one coat of Cetol Marine Natural Teak. A few tips:
   too hot).
 - We prefer cheap disposable sponge brushes versus expensive bristle brushes
   requiring being cleaned with thinners that are damaging to people's health and
-  the environment.
+  the environment. Note, however, that a good quality bristle brush leads to a nicer finish, especially on large surfaces.
 
 ---
 {% responsive_image path: assets/media/imgs/projects/maintenance_wood_painting-1600x1200.jpg alt: Don class: img-right %}

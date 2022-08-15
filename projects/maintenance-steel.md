@@ -11,7 +11,7 @@ layout: default
 *Duration: 2 hours*
 
 **Material**
-- Star Brite Chrome & Stainless Polish
+- Star Brite Chrome & Stainless Polish or Wichinox Stainless Steel Polish
 - Cotton rags
 
 **Application**

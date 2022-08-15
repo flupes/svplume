@@ -22,3 +22,5 @@ group :jekyll_plugins do
   gem "jekyll-responsive-image"
 end
 
+
+gem "webrick", "~> 1.7"

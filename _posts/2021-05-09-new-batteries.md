@@ -1,6 +1,6 @@
 ---
 title: New Batteries
-date: 2021-05-09-27T21:12:30+00:00
+date: 2021-05-09T21:12:30+00:00
 author: cecile
 layout: post
 permalink: /2021/newbatteries/

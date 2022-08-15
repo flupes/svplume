@@ -1,6 +1,6 @@
 ---
 title: First Splice
-date: 2020-12-28-27T21:12:30+00:00
+date: 2020-12-28T21:12:30+00:00
 author: cecile
 layout: post
 permalink: /2020/firstsplice/
