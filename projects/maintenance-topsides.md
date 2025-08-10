@@ -4,7 +4,7 @@ permalink: /projects/maintenance-topsides/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/projects/maintenance-topsides-banner.jpg alt: "Topside" %}
+{% picture projects/maintenance-topsides-banner.jpg --alt Topside %}
 
 
 ### Yearly Topsides Maintenance 

@@ -21,7 +21,7 @@ Finally we decided to put our son to contribution (for the price of a Boba
 tea:-). Below is a picture of him devising the best strategy to do the job.
 Thanks Son for saving our backs!
 
-{% responsive_image path: assets/media/imgs/2021/BatteriesCompartment.jpg alt: "New Batteries" %}
+{% picture 2021/BatteriesCompartment.jpg --alt New Batteries %}
 
 *Battery on the left already prepped by raising it with a series of blocks. Just
 one last huge effort combined with enough agility to follow the right path! Note

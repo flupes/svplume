@@ -4,7 +4,7 @@ permalink: /projects/maintenance-wood/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/projects/maintenance-wood-banner.jpg alt: "Wood Work" %}
+{% picture projects/maintenance-wood-banner.jpg --alt Wood Work %}
 
 ## Yearly Exterior Teakwood Maintenance
 
@@ -47,8 +47,8 @@ Prepare the deck by removing anything in the way, like lifelines, spinnaker
 pole, anchor, and hardware as needed.
 
 ---
-{% responsive_image path: assets/media/imgs/projects/maintenance_wood_sanding-1600x1200.jpg
-alt: Sanding class: img-right %}
+{% picture projects/maintenance_wood_sanding-1600x1200.jpg
+--alt Sanding --img class="img-right" %}
 ### Day 1: Sanding 
 
 *Duration: 6 hours for all the exterior teak except hatches (add a maximum of 1
@@ -62,7 +62,7 @@ block on flat surfaces; angles help avoid damaging adjacent surfaces.
 <br class="stop-wrap"/> 
 
 ---
-{% responsive_image path: assets/media/imgs/projects/maintenance_wood_taping-1600x1200.jpg alt: Taping class: img-right %}
+{% picture projects/maintenance_wood_taping-1600x1200.jpg --alt Taping --img class="img-right" %}
 ### Day 2: Taping 
 
 *Duration: 6 hours*
@@ -91,7 +91,7 @@ is dry, apply one coat of Cetol Marine Natural Teak. A few tips:
   the environment. Note, however, that a good quality bristle brush leads to a nicer finish, especially on large surfaces.
 
 ---
-{% responsive_image path: assets/media/imgs/projects/maintenance_wood_painting-1600x1200.jpg alt: Don class: img-right %}
+{% picture projects/maintenance_wood_painting-1600x1200.jpg --alt Don --img class="img-right" %}
 
 ### Day 4: Coat 2
 

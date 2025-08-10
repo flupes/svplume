@@ -19,4 +19,4 @@ We hope to be able to update this site frequently!
 
 _Cécile & Lorenzo_
 
-{% responsive_image path: assets/media/imgs/2002/Plume-CL.jpg alt: Cecile and Lorenzo %}
+{% picture 2002/Plume-CL.jpg --alt Cecile and Lorenzo %}

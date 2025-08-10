@@ -4,7 +4,7 @@ permalink: /about/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/about/about.jpg alt: "Plume at Bair Island Marina" class: img-head %}
+{% picture about/about.jpg --alt Plume at Bair Island Marina --img class="img-head" %}
 
 ## About the Norsea 27 
 

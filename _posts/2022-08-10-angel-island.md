@@ -17,5 +17,5 @@ history!
 We also spent a lovely night at Alaya cove, one of our favorite coves
 in the bay. A nice reward following our [yearly maintenance job](/projects).
 
-{% responsive_image path: assets/media/imgs/2022/up-down-single-tack_tracks.png alt: "Tracks" %}
-{% responsive_image path: assets/media/imgs/2022/plume-alaya-2022.jpg alt: "Alaya Cove" %}
+{% picture 2022/up-down-single-tack_tracks.png --alt Tracks %}
+{% picture 2022/plume-alaya-2022.jpg --alt Alaya Cove %}

@@ -4,8 +4,7 @@ permalink: /projects/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/projects/project-wood.jpg alt: "Wood
-Work" class: img-head %}
+{% picture projects/project-wood.jpg --alt WoodWork --img class="img-head" %}
 
 ## Yearly Exterior Maintenance 
 

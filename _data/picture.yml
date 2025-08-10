@@ -1,0 +1,19 @@
+# _data/picture.yml
+presets:
+  default:
+    # Skip avif format, use webp and jpeg fallback.
+    formats: [webp, original]
+
+    # Width that were used with the olfd responsive_image plugin.
+    widths: [800, 1280, 1920]
+
+    # Max the image size.
+    size: "100vw"
+
+    # Quality settings for JPEGs.
+    format_quality:
+      jpg:
+        800: 75
+        1280: 80
+        1920: 85
+

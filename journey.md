@@ -4,7 +4,7 @@ permalink: /journey/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/journey/journey_ca.jpg alt: "California Sailing" class: img-head %}
+{% picture journey/journey_ca.jpg --alt California Sailing --img class="img-head" %}
 
 Plume’s main sailing ground includes the San Francisco Bay and Delta, as well as
 the nearby Pacific ocean from Bodega Bay to Monterey. The region has
@@ -18,7 +18,7 @@ Pictures of some of Plume California's adventures can be found in the
 
 ---
 
-{% responsive_image path: assets/media/imgs/journey/Journey_Plume_Construction.jpg alt: construction class: img-right %}
+{% picture journey/Journey_Plume_Construction.jpg --alt construction --img class="img-right" %}
 ## 2001-2002: Plume's Construction
 
 Plume was built at the Nor'Sea Yachts boatshop in Ontario (CA). We bought her as
@@ -34,7 +34,7 @@ Pictures of Plume's construction can be found in the
 
 ---
 
-{% responsive_image path: assets/media/imgs/2002/060_Plume_BeginApril_EnterWater.jpg alt: splashing class: img-right %}
+{% picture 2002/060_Plume_BeginApril_EnterWater.jpg --alt splashing --picture class="img-right" %}
 ## 2002: Plume's Splash & First Sailings
 
 Plume was splashed at Grand Marina (Alameda, CA) on April 12th 2002, six months
@@ -47,7 +47,7 @@ of Plume's very first adventures on the water.
 
 ---
 
-{% responsive_image path: assets/media/imgs/journey/Journey_GoldenGateCL.jpg alt: Honeymoon class: img-right %}
+{% picture journey/Journey_GoldenGateCL.jpg --alt Honeymoon --img class="img-right" %}
 ## 2003: Plume's First Taste of the Pacific Ocean
 
 During our honeymoon, we took Plume outside the San Francisco Bay for the first
@@ -61,7 +61,7 @@ Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.o
 
 ---
 
-{% responsive_image path: assets/media/imgs/journey/Journey_Plume_Agua_Verde.jpg alt: Mexico class: img-right %}
+{% picture journey/Journey_Plume_Agua_Verde.jpg --alt Mexico --img class="img-right" %}
 ## 2008-2010: Plume's Voyage to Mexico
 
 In 2008, we decided to quit our jobs and go cruising. Before the trip, we both
@@ -84,7 +84,7 @@ So-Cal Nor'Sea 27 Get-Together in May 2011.
 
 ---
 
-{% responsive_image path: assets/media/imgs/journey/Journey_Refresh.jpg alt: refresh class: img-right %}
+{% picture journey/Journey_Refresh.jpg --alt refresh --img class="img-right" %}
 ## 2020: Plume's Refresh
 
 In 2020 Plume turned 18 year old, so we decided to give her a little refresh! We

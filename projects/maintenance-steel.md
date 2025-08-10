@@ -4,7 +4,7 @@ permalink: /projects/maintenance-steel/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/projects/maintenance-steel-banner.jpg alt: "Stainless Steel" %}
+{% picture projects/maintenance-steel-banner.jpg --alt Stainless Steel %}
 
 ### Yearly Deck Stainless Steel Maintenance 
 

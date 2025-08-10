@@ -4,7 +4,7 @@ permalink: /projects/maintenance-gelcoat/
 layout: default
 ---
 
-{% responsive_image path: assets/media/imgs/projects/maintenance-gelcoat-banner.jpg alt: "Gelcoat" %}
+{% picture projects/maintenance-gelcoat-banner.jpg --alt Gelcoat %}
 
 ### Yearly Deck Gelcoat Maintenance 
 

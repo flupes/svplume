@@ -17,5 +17,5 @@ at $1 per pound on the wharf, beaches for Kenzo and a delicious french bakery!
 However we are now ready to move on and wait for a weather window to sail south
 again. But this window is slow to come!
 
-{% responsive_image path: assets/media/imgs/2008/11/WomenAboard_PB110227.jpg alt: Friends %}
+{% picture 2008/11/WomenAboard_PB110227.jpg --alt Friends %}
 
