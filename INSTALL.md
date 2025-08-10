@@ -8,7 +8,7 @@
 
 Make sure that GEM_HOME is defined locally, and the path includes $GEM_HOME/bin
 
-    sudo apt install ruby-dev zlib-dev
+    sudo apt install ruby-dev
     gem install bundler
     
 > To be compatible with the github version, use (not necessary since we host now the site):
@@ -31,16 +31,21 @@ Inspired from: https://www.shouvikbasak.net/website/jekyll-on-macos-apple-m1-sol
 
     sudo apt install imagemagick libmagickcore-dev pkg-config
     
+### jekyll_picture_tag
+
+    sudo apt install libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev
+
 ## Jekyll toochain
 
     cd svplume
-    bundler install
+    bundle install
 
 ### Serve locally
 
-    bundler exec jekyll serve
+    bundle exec jekyll serve
 
 ### Build for deployment
 
-    bundler exec jekyll build
+    bundle exec jekyll build
     rsync --archive --delete _site/ hws:/var/www/plume --verbose
+
