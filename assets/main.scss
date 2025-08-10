@@ -1,0 +1,11 @@
+---
+---
+/* variables MUST come before the theme import */
+@import "minima/custom-variables";
+
+/* import the theme (2.5.x) */
+@import "minima";
+
+/* rules that override the theme */
+@import "minima/custom-styles";
+
