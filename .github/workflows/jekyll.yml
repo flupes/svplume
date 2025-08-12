@@ -31,10 +31,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Install jekyll_picture_tags dependencies
-        run: sudo apt install -y libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev libheif-dev
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: github-action-test
+      - name: Install jekyll_picture_tags dependencies
+        run: sudo apt install -y libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev libheif-dev
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
