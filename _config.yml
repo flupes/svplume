@@ -4,8 +4,8 @@ title: Sailing Vessel Plume
 email: "%70%6C%75%6D%65&#64;%66%6C%75%70%65%73.%6F%72%67"
 description: >-
   Voyage of a Norsea'27, Plume.
-baseurl: ""
-url: "http://plume.flupes.org"
+baseurl: "/svplume"
+url: "https://flupes.github.io"
 
 show_excerpts: true
 
