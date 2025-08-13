@@ -33,7 +33,7 @@ Inspired from: https://www.shouvikbasak.net/website/jekyll-on-macos-apple-m1-sol
     
 ### jekyll_picture_tag
 
-    sudo apt install libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev
+    sudo apt install libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev libheif-dev
 
 ## Jekyll toochain
 
