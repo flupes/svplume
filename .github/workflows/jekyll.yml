@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: github-action-test
+          ref: gh-pages
       - name: Install jekyll_picture_tags dependencies
         run: sudo apt install -y libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev libheif-dev
       - name: Setup Ruby
