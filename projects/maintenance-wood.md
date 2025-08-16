@@ -51,8 +51,7 @@ pole, anchor, and hardware as needed.
 --alt Sanding --img class="img-right" %}
 ### Day 1: Sanding 
 
-*Duration: 6 hours for all the exterior teak except hatches (add a maximum of 1
-hour per hatch)*
+<!-- *Duration: 6 hours for all the exterior teak except hatches (add a maximum of 1 hour per hatch)* -->
 
 Use 220-320 grit paper to lightly sand the teak with a goal of only removing the
 gloss (i.e. without going back to the wood unless there is a local problem). A
@@ -65,7 +64,7 @@ block on flat surfaces; angles help avoid damaging adjacent surfaces.
 {% picture projects/maintenance_wood_taping-1600x1200.jpg --alt Taping --img class="img-right" %}
 ### Day 2: Taping 
 
-*Duration: 6 hours*
+<!-- *Duration: 6 hours* -->
 
 Carefully align the tape to the wood while leaving a tiny space between the two
 in order to allow the Cetol to attach to the surface around the wood.
@@ -75,7 +74,7 @@ in order to allow the Cetol to attach to the surface around the wood.
 ---
 ### Day 3: Coat 1
 
-*Duration: 3 hours*
+<!-- *Duration: 3 hours* -->
 
 Remove any dust by cleaning the surfaces adjacent to the wood with a soft
 cleaning sponge and the wood itself with Interlux Special Thinner 216. Once all
@@ -95,7 +94,7 @@ is dry, apply one coat of Cetol Marine Natural Teak. A few tips:
 
 ### Day 4: Coat 2
 
-*Duration: 3 hours*
+<!-- *Duration: 3 hours* -->
 
 Inspect the previous coat and remove any insects or other debris with the 3M
 Scotch Brite brown pad. Then repeat what was done for coat 1.
