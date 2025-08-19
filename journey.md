@@ -7,12 +7,18 @@ layout: default
 {% picture journey/journey_ca.jpg --alt California Sailing --img class="img-head" %}
 
 Plume’s main sailing ground includes the San Francisco Bay and Delta, as well as
-the nearby Pacific ocean from Bodega Bay to Monterey. The region has
-breathtaking scenery, strong current, and hazardous weather. So sailing is
-always interesting!
-
-Pictures of some of Plume California's adventures can be found in the
+the nearby Pacific Ocean from Bodega Bay to Monterey. The region has
+breathtaking scenery, strong currents, and hazardous weather. So sailing is
+always interesting! Pictures can be found at
 [Photo Gallery / California](https://photos.flupes.org/Public/Plume/SailingCA).
+
+Aboard Plume, our family of three spent two years sailing 3,360 nautical miles
+from the United States to Mexico. Our route followed the West Coast of
+California, down the length of Baja, through the calm waters of the Sea of
+Cortez, and along the lively shores of mainland Mexico. Pictures can be found at
+[Photo Gallery / Sabbatical](https://photos.flupes.org/Public/Plume/Sabbatical).
+
+
 
 *Below are some highlights of Plume's journey:*
 
@@ -24,7 +30,7 @@ Pictures of some of Plume California's adventures can be found in the
 Plume was built at the Nor'Sea Yachts boatshop in Ontario (CA). We bought her as
 a Kit boat #3, which included the hull, deck, main cabinetry, and standing
 rigging. Everything else was left for us to do, like painting, trimming,
-plumbing, electricity, or deck equipment. We spent many weekends down at the
+plumbing, electricity, and deck equipment. We spent many weekends down at the
 boatshop in Ontario to work on the boat while the kit was being built. That way
 we benefited from the boatshop's tools and expertise. It was hard work but we
 learned a bunch!
@@ -66,13 +72,13 @@ Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.o
 
 In 2008, we decided to quit our jobs and go cruising. Before the trip, we both
 spent three months working full time on the boat to complete most projects left
-on our to-do-list. Once about ready, and with our four-year old son, we left San
-Francisco and started a two-year and 3360 nautical miles journey, including 65
+on our to-do list. Once about ready, and with our four-year old son, we left San
+Francisco and started a two-year and 3,360 nautical mile journey, including 65
 days and 30 nights on the water as well as 46 stops. The journey took us along
 the busy and cold coast of California, the wild coast of Baja California in
 Mexico, the beautiful Sea of Cortez, and finally the lively west coast of
 mainland Mexico between San Carlos and La Cruz. At the end of the journey, we
-trailed Plume back to San Francisco via road on a brand new trailer. Preparing
+trailered Plume back to San Francisco via road on a brand new trailer. Preparing
 for such a journey is a lot of work, and being three people on 27 feet can be a
 challenge at times. But the experience is worth all the effort. It was a
 wonderful family adventure!
@@ -87,7 +93,7 @@ So-Cal Nor'Sea 27 Get-Together in May 2011.
 {% picture journey/Journey_Refresh.jpg --alt refresh --img class="img-right" %}
 ## 2020: Plume's Refresh
 
-In 2020 Plume turned 18 year old, so we decided to give her a little refresh! We
+In 2020 Plume turned 18 years old, so we decided to give her a little refresh! We
 looked at every element and system from bow to stern in order to identify needs
 for repair or replacement.
 
@@ -99,9 +105,9 @@ both sitting and sleeping), canvas for hatch and companionways, galley sole, and
 more. The engine and stove were thoroughly serviced. For our stove however, the
 service morphed into a replacement after it was badly damaged during shipping.
 Since the responsibility of the accident was shared between Scan Marine and
-ourself, they agreed to send us another used replacement stove. So basically, we
-have a new old stove! Those are just examples. More information can be found
-under [Projects](/projects/) (coming soon).
+ourselves, they agreed to send us another used replacement stove. So basically,
+we have a new old stove! Those are just a few examples of the many repairs and
+replacements completed during this extensive refresh.
 
 ---
 
