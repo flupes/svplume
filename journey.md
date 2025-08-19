@@ -103,8 +103,12 @@ ourself, they agreed to send us another used replacement stove. So basically, we
 have a new old stove! Those are just examples. More information can be found
 under [Projects](/projects/) (coming soon).
 
-Our plan was to trail Plume to Canada and sail in British Columbia during the
-summer of 2020. The project was canceled because of Covid-19. We downgraded our
-dreams and continued
-[sailing in California](https://photos.flupes.org/Public/Plume/SailingCA)
-instead.
+---
+
+{% picture journey/Journey_Plume_CA.jpg --alt california --img class="img-right" %}
+## 2020-2025: California Sailing
+
+During the summer of 2020, our plan was to trailer Plume to Canada and sail in
+British Columbia. The project was canceled because of Covid-19. Instead, we have
+downgraded our dreams and continued
+[sailing in California](https://photos.flupes.org/Public/Plume/SailingCA).
