@@ -4,6 +4,9 @@
 # Resizes JPEG images to maximum 2560x2560 at 95% quality
 # Processes recursively and maintains directory structure
 #
+# This script does not process a single image file.
+# If you need to do so, simply use:
+# convert <input_file> -resize "2560x2560>" -quality 95 <output_file>
 
 # Get script directory
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
