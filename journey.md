@@ -27,13 +27,14 @@ Cortez, and along the lively shores of mainland Mexico. Pictures can be found at
 {% picture journey/Journey_Plume_Construction.jpg --alt construction --img class="img-right" %}
 ## 2001-2002: Plume's Construction
 
-Plume was built at the Nor'Sea Yachts boatshop in Ontario (CA). We bought her as
-a Kit boat #3, which included the hull, deck, main cabinetry, and standing
-rigging. Everything else was left for us to do, like painting, trimming,
-plumbing, electricity, and deck equipment. We spent many weekends down at the
-boatshop in Ontario to work on the boat while the kit was being built. That way
-we benefited from the boatshop's tools and expertise. It was hard work but we
-learned a bunch!
+Plume was built at the Nor'Sea Yachts boatshop in Ontario, California. We bought
+her as a Kit boat #3, which included the hull, deck, main cabinetry, and
+standing rigging. In addition, we hired the factory carpenter for the complex
+work requiring true craftsmanship. Everything else was left for us to do, like
+painting, trimming, plumbing, electricity, and deck equipment. We spent many
+weekends down at the boatshop in Ontario to work on the boat while the kit was
+being built. That way we benefited from the boatshop's tools and expertise. It
+was hard work but we learned a bunch!
 
 Pictures of Plume's construction can be found in the
 [Photo Gallery / Construction](https://photos.flupes.org/Public/Plume/Projects/2002-01-Construction/).
@@ -100,7 +101,7 @@ for repair or replacement.
 
 As a result, Plume has a new mainsail, standing and running rigging, main and
 storm anchors, chain, VHF, GPS, AIS transponder, computer and navigation
-station, depth sounder, propeller, main cabin cushions (super comfortable for
+station, depth sounder, main cabin cushions (super comfortable for
 both sitting and sleeping), canvas for hatch and companionways, galley sole, and
 more. The engine and stove were thoroughly serviced. For our stove however, the
 service morphed into a replacement after it was badly damaged during shipping.
@@ -115,6 +116,11 @@ replacements completed during this extensive refresh.
 ## 2020-2025: California Sailing
 
 During the summer of 2020, our plan was to trailer Plume to Canada and sail in
-British Columbia. The project was canceled because of Covid-19. Instead, we have
+British Columbia. The project was canceled because of Covid-19. Instead, we
 downgraded our dreams and continued
 [sailing in California](https://photos.flupes.org/Public/Plume/SailingCA).
+
+Meanwhile, to keep Plume in Bristol condition, we kept up with [maintenance and
+upgrades]({{site.baseurl}}/projects), with new 80% jib, prop, and batteries,
+along with other [improvements]({{site.baseurl}}/blog) to ensure she stays ready
+for the miles ahead.

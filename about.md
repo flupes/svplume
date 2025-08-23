@@ -25,11 +25,16 @@ shop and to be able to do the finish work ourselves (money-wise and to get
 exactly what we wanted).
 
 Plume was built in the Nor'Sea Yachts boat shop in Ontario (California) managed
-by Bob Eeg. Bob Eeg was kind enough to give us full access to his boat shop and
-we were working there every other weekend during six months. Besides the
-advantage of having professional tools, we learned a lot from Bob and his
-excellent carpenter Alonso.
-
+by Bob Eeg. We bought her as a Kit boat #3, which included the hull, deck, main
+cabinetry, and standing rigging. Everything else was left for us to do, like
+painting, trimming, plumbing, electricity, and deck equipment. Bob Eeg was kind
+enough to give us full access to his boat shop and we were working there every
+other weekend during six months. Besides the advantage of having professional
+tools, we learned a lot from Bob and his excellent carpenter Alonso.
+Furthermore, we were able to hire Alonzo for the more complex work requiring
+true craftsmanship, such as the teak hatches, teak knees, storm hoods, sliding
+chart table, folding table, and bowsprit.
+ 
 ## Plume Aft-Cabin Interior Layout
 
 {% picture about/plume-interior-layout.jpg --alt Gelcoat %}
@@ -37,4 +42,3 @@ excellent carpenter Alonso.
 ## Specifications
 
 {% include_relative /specs.html %}
-
