@@ -7,7 +7,7 @@ layout: default
 ### Emergency Tiller 
 
 Fortunately, we’ve never had to use it, but just in case, we keep a homemade
-emergency tiller on board. Made from mahogany and an aluminum pole, it’s stored
+emergency tiller on board. Made from mahogany and an aluminum pole (which is the dinghy mast section), it’s stored
 in a locker below deck with our other emergency gear and can be fitted quickly
 if the main tiller ever fails. Below are photos showing how we built it.
 
