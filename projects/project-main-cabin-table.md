@@ -13,7 +13,7 @@ Plume’s original table was generously sized, making it easy to seat four or fi
   Original table with four guests
 </p>
 
-To make life on board easier, we decided to cut the table into two sections. The forward part stays down at all times (with no need for a supporting pole), giving us a cozy spot to sit back, relax, or play. The aft part slides smoothly up and down the compression post: raised, it becomes a small table just right for three or four people; lowered, it turns the cabin into a spacious berth.
+To make life on board easier, we decided to separate the two sections and build a new support that uses the compression post. The forward part stays down at all times (with no need for a supporting pole), giving us a cozy spot to sit back, relax, or play. The aft part slides smoothly up and down the compression post: raised, it becomes a small table just right for three or four people; lowered, it turns the cabin into a spacious berth.
 
 {% picture projects/project-main-cabin-small-table-3.jpg --alt small table --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
