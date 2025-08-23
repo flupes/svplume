@@ -12,7 +12,7 @@ Since 2002, our primary anchor has been a Spade A80 aluminum model. It weighs ju
 
 {% picture projects/project-anchor-main-spade.jpg --alt Spade A80 Anchor --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
-  Spade A80 main anchor of 15 lbs
+  Spade A80 main anchor (15 lbs).
 </p>
 
 ### Storm Anchor
