@@ -12,7 +12,7 @@ The NØRSEA 27 has been designed by Lyle Hess in 1977. About 250 boats have been
 produced using the same original mold which was used in 1979 for hull #1.
 
 Lyle Hess wanted a boat small enough to be trailerable, without any concession
-on seaworthiness. The reasonable size of the NØRSEA 27, its legendary
+to seaworthiness. The reasonable size of the NØRSEA 27, its legendary
 robustness, and its limited draft were key points in our choice of a sailboat
 for the San Francisco Bay, and beyond.
 

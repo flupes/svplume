@@ -8,13 +8,13 @@ categories:
   - Others
 ---
 
-After a year of qualifying events, our son Kenzo and his skipper earned the honor of
-representing Team USA at the **2023 420 World Championship** in Alicante, Spain.
-The event brought together 130 of the world’s top sailing teams for two intense
-weeks; one of practice followed by one of high-stakes racing. Against this elite
-international field, Kenzo and his sailing partner Aiden put in a solid showing,
-finishing 72nd overall; an excellent result at such a world-class level of
-competition.
+After a year of qualifying events, our son Kenzo and his sailing partner Aiden
+earned the honor of representing Team USA (along with 10 other boats) at the
+**2023 420 World Championship** in Alicante, Spain. The event brought together
+130 of the world’s top sailing teams for two intense weeks; one of practice
+followed by one of high-stakes racing. Against this elite international field,
+Kenzo and Aiden put in a solid showing, finishing 72nd overall. We are proud of
+their achievement at such a world-class level of competition.
 
 {% picture 2023/2023_420_World1.jpeg --alt 420 World Championship %}
 <br>
