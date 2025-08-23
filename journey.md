@@ -74,7 +74,7 @@ Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.o
 In 2008, we decided to quit our jobs and go cruising. Before the trip, we both
 spent three months working full time on the boat to complete most projects left
 on our to-do list. Once about ready, and with our four-year old son, we left San
-Francisco and started a two-year and 3,360 nautical mile journey, including 65
+Francisco and started a two-year and journey of 3,360 nautical miles, including 65
 days and 30 nights on the water as well as 46 stops. The journey took us along
 the busy and cold coast of California, the wild coast of Baja California in
 Mexico, the beautiful Sea of Cortez, and finally the lively west coast of
