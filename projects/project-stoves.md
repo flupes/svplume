@@ -11,7 +11,7 @@ into limited space. In the compartment originally designed for a conventional
 stove, we installed a Wallas diesel two-burner stove that doubles as a
 powerful heater, an Origo gimbaled alcohol one-burner stove for cooking under
 way, and a cutlery drawer. Before our trip to Mexico, we added a small
-desalinator behind the Origo.
+water maker in the space behind the stoves.
 
 {% picture projects/project-stove-1.jpg --alt Wallas diesel two-burner stove --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
