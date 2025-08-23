@@ -8,7 +8,7 @@ categories:
   - Others
 ---
 
-After a year of qualifying events, our son Kenzo earned the honor of
+After a year of qualifying events, our son Kenzo and his skipper earned the honor of
 representing Team USA at the **2023 420 World Championship** in Alicante, Spain.
 The event brought together 130 of the world’s top sailing teams for two intense
 weeks; one of practice followed by one of high-stakes racing. Against this elite
