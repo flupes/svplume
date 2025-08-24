@@ -74,11 +74,11 @@ Pictures can be found in the [Photo Gallery / Honeymoon](https://photos.flupes.o
 In 2008, we decided to quit our jobs and go cruising. Before the trip, we both
 spent three months working full time on the boat to complete most projects left
 on our to-do list. Once about ready, and with our four-year old son, we left San
-Francisco and started a two-year and journey of 3,360 nautical miles, including
-65 days and 30 nights on the water as well as 46 stops. The journey took us
-along the busy and cold coast of California, the wild coast of Baja California,
-Mexico, the beautiful Sea of Cortez, and finally the lively west coast of
-mainland Mexico between San Carlos and La Cruz. At the end of the journey, we
+Francisco and started a two-year journey of 3,360 nautical miles, including 65
+days and 30 nights on the water as well as 46 stops. The voyage took us along
+the busy and cold coast of California, the wild coast of Baja California
+(Mexico), the beautiful Sea of Cortez, and finally the lively west coast of
+mainland Mexico between San Carlos and La Cruz. At the end of the trip, we
 trailed Plume back to San Francisco via road on a brand new trailer. Preparing
 for such a journey is a lot of work, and being three people on 27 feet can be a
 challenge at times. But the experience is worth all the effort. It was a
@@ -98,17 +98,12 @@ In 2020 Plume turned 18 years old, so we decided to give her a little refresh! W
 looked at every element and system from bow to stern in order to identify needs
 for repair or replacement.
 
-
 As a result, Plume has a new mainsail, standing and running rigging, main and
 storm anchors, chain, VHF, GPS, AIS transponder, computer and navigation
-station, depth sounder, main cabin cushions (super comfortable for
-both sitting and sleeping), canvas for hatch and companionways, galley sole, and
-more. The engine and stove were thoroughly serviced. For our stove however, the
-service morphed into a replacement after it was badly damaged during shipping.
-Since the responsibility of the accident was shared between Scan Marine and
-ourselves, they agreed to send us another used replacement stove. So basically,
-we have a new old stove! Those are just a few examples of the many repairs and
-replacements completed during this extensive refresh.
+station, depth sounder, main cabin cushions (super comfortable for both sitting
+and sleeping), canvas for hatch and companionways, galley sole, and more. The
+engine and stove were thoroughly serviced. Those are just a few examples of the
+many repairs and replacements completed during this extensive refresh.
 
 ---
 
