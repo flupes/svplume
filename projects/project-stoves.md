@@ -8,9 +8,10 @@ layout: default
 
 On a small boat, every inch counts, and our galley shows just how much can fit
 into limited space. In the compartment originally designed for a conventional
-stove, we installed a Wallas diesel two-burner stove that doubles as a
-powerful heater, an Origo gimbaled alcohol one-burner stove for cooking under
-way, and a cutlery drawer. Before our trip to Mexico, we added a small
+stove, we installed a Wallas diesel two-burner stove that doubles as a powerful
+heater, an Origo gimbaled alcohol one-burner stove for cooking under way, and a
+cutlery drawer. The Origo also serves as a backup stove, for example in case of
+a total loss of electrical power. Before our trip to Mexico, we added a small
 water maker in the space behind the stoves.
 
 {% picture projects/project-stove-1.jpg --alt Wallas diesel two-burner stove --img class="img-small"%}

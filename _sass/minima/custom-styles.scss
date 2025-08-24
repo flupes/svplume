@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   border-radius: 0.5em;       /* rounder corners */
   margin: 0 auto 0.75em auto; /* centers the image and leave some space at the bottom*/
-  width: 45%;                 /* 50% of screen width by default (desktop/tablet) */
+  width: 60%;                 /* 60% of screen width by default (desktop/tablet) */
   max-width: 100%;            /* prevents overflow */
   height: auto;               /* keeps aspect ratio */
 }

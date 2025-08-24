@@ -14,7 +14,7 @@ always interesting! Pictures can be found at
 
 Aboard Plume, our family of three spent two years sailing 3,360 nautical miles
 from the United States to Mexico. Our route followed the West Coast of
-California, down the length of Baja, through the calm waters of the Sea of
+California, down the length of Baja California in Mexico, through the calm waters of the Sea of
 Cortez, and along the lively shores of mainland Mexico. Pictures can be found at
 [Photo Gallery / Sabbatical](https://photos.flupes.org/Public/Plume/Sabbatical).
 
