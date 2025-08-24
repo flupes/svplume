@@ -25,7 +25,7 @@ water maker in the space behind the stoves.
 
 {% picture projects/project-stove-3.jpg --alt Origo gimbaled alcohol stove --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
-  Origo gimbaled alcohol stove, with the Wallas slid back
+  Origo gimbaled alcohol stove, with the Wallas slid back (and secured)
 </p>
 
 {% picture projects/project-stove-4.jpg --alt cutlery drawer --img class="img-small"%}
