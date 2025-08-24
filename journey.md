@@ -76,8 +76,8 @@ spent three months working full time on the boat to complete most projects left
 on our to-do list. Once about ready, and with our four-year old son, we left San
 Francisco and started a two-year and journey of 3,360 nautical miles, including
 65 days and 30 nights on the water as well as 46 stops. The journey took us
-along the busy and cold coast of California, the wild coast of Baja California
-in Mexico, the beautiful Sea of Cortez, and finally the lively west coast of
+along the busy and cold coast of California, the wild coast of Baja California,
+Mexico, the beautiful Sea of Cortez, and finally the lively west coast of
 mainland Mexico between San Carlos and La Cruz. At the end of the journey, we
 trailed Plume back to San Francisco via road on a brand new trailer. Preparing
 for such a journey is a lot of work, and being three people on 27 feet can be a
