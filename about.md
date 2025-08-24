@@ -37,7 +37,7 @@ chart table, folding table, and bowsprit.
  
 ## Plume Aft-Cabin Interior Layout
 
-{% picture about/plume-interior-layout.jpg --alt Gelcoat %}
+{% picture about/plume-interior-layout.png --alt Gelcoat %}
 
 ## Specifications
 
