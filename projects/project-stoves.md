@@ -20,7 +20,7 @@ water maker in the space behind the stoves.
 
 {% picture projects/project-stove-2.jpg --alt Wallas in heating position --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
-  Wallas in heating position
+  Wallas in heating mode (lid down)
 </p>
 
 {% picture projects/project-stove-3.jpg --alt Origo gimbaled alcohol stove --img class="img-small"%}
