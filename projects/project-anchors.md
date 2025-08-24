@@ -28,7 +28,7 @@ rode.
 
 ### Storm Anchor
 
-In addition, we carry a storm anchor just in case, a M2 Mantus of 35 lbs. It is recommended for boats up to 30 ft in winds greater than 50 knt! It is easy to store as it breaks down into small parts. A single bolt is used for disassembly and storage. Ours is securely fixed to the cabin sole, yet easily removable, as shown in the pictures below.
+In addition, we carry a storm anchor just in case, a M2 Mantus of 35 lbs. It is recommended for boats up to 30 ft in winds greater than 50 knt! It is easy to store as the shank can be disassembled for storage. Ours is securely fixed to the cabin sole, yet easily removable, as shown in the pictures below.
 
 {% picture projects/project-anchor-storm-mantus-1.jpg --alt Mantus Anchor --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
