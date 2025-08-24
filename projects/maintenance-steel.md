@@ -8,7 +8,7 @@ layout: default
 
 ### Yearly Deck Stainless Steel Maintenance 
 
-*Duration: 2 hours*
+<!-- *Duration: 2 hours* -->
 
 **Material**
 - Star Brite Chrome & Stainless Polish or Wichinox Stainless Steel Polish

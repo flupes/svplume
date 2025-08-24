@@ -8,7 +8,7 @@ layout: default
 
 ### Yearly Deck Gelcoat Maintenance 
 
-*Duration: 1/2 day*
+<!-- *Duration: 1/2 day* -->
 
 **Material**
 - 3M Finesse-It II Finishing Material

@@ -68,6 +68,15 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 0.5em;
 }
 
+.img-small {
+  display: block;
+  border-radius: 0.5em;       /* rounder corners */
+  margin: 0 auto 0.75em auto; /* centers the image and leave some space at the bottom*/
+  width: 60%;                 /* 60% of screen width by default (desktop/tablet) */
+  max-width: 100%;            /* prevents overflow */
+  height: auto;               /* keeps aspect ratio */
+}
+
 .landing-frame {
   position: relative;
   z-index: -10;
@@ -101,6 +110,9 @@ h1, h2, h3, h4, h5, h6 {
     width: 40%;
     left: 5%;
     top: 5%;
+  }
+  .img-small {
+    width: 100%;
   }
 }
 

@@ -5,7 +5,7 @@ author: cecile
 layout: post
 permalink: /2021/newbatteries/
 categories:
-  - Others
+  - Technical
 ---
 Finally, we replaced Plume's full battery set: One Lifeline Starting (GPL-2400T)
 for the engine and two Lifeline Deep Cycle (GPL-24T) for the house. This is a

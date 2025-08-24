@@ -15,7 +15,7 @@ less heat inside the boat (both turned-out to be correct). The boat yard used a 
 ---
 ### Step 1: Wash
 
-*Duration: 1/2 hour per side*
+<!-- *Duration: 1/2 hour per side* -->
 
 **Material**
 - [AWLGRIP Awlwash](https://www.awlgrip.com/products/boatcare/awlwash): 1 ounce (30 ml) of Awlwash per each gallon (3.785 liters) of waters
@@ -30,7 +30,7 @@ less heat inside the boat (both turned-out to be correct). The boat yard used a 
 ---
 ### Step 2: Protect
 
-*Duration: 2 hour per side*
+<!-- *Duration: 2 hour per side* -->
 
 **Material**
 - [AWLGRIP Awlcare](https://www.awlgrip.com/products/boatcare/awlcare) (protective polymer sealer)
