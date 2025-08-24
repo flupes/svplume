@@ -14,6 +14,14 @@ cutlery drawer. The Origo also serves as a backup stove, for example in case of
 a total loss of electrical power. Before our trip to Mexico, we added a small
 water maker in the space behind the stoves.
 
+Over the years, we’ve been pleasantly surprised by how well the Wallas performs
+and how little maintenance it requires. During our 2020 refit, however, we
+decided to send it in for servicing. That service quickly turned into a
+replacement after the stove was badly damaged in shipping. Since responsibility
+for the accident was shared between Scan Marine and us, they agreed to send
+another used replacement stove. So essentially, we ended up with a “new old”
+stove!
+
 {% picture projects/project-stove-1.jpg --alt Wallas diesel two-burner stove --img class="img-small"%}
 <p style="text-align: center; font-style: italic;">
   Wallas diesel two-burner stove
