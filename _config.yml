@@ -20,6 +20,7 @@ header_pages:
   - blog.md
   - projects/index.md
   - about.md
+  - listing.md
 
 responsive_image:
   template: _includes/responsive-image.html
