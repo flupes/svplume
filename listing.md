@@ -12,13 +12,13 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 <br>
 *Plume is available for viewing in [Brisbane Marina](https://maps.app.goo.gl/euHDXdj56qzSo6YG6), California.*
 
-[Listing Photo Gallery](https://photos.flupes.org/Public/Plume/NorSea27-Plume) --- [Complete 2025 Inventory]({%link inventory.md%})
-{: style="text-align: center; font-weight: bold;"}
+[&#x1F4F7; Listing Photo Gallery](https://photos.flupes.org/Public/Plume/NorSea27-Plume) --- [Complete 2025 Inventory &#x1F4CB;]({%link inventory.md%})
+{: style="text-align: center; font-weight: bold; font-size: 1.2em;"}
 
 Plume, a 2002 Nor’Sea 27, is among the final hulls built to Lyle Hess’s legendary pocket-cruiser design. Maintained in Bristol condition, with low engine hours and outfitted for offshore sailing, she is offered by her original owners with a custom-built 2009 Pacific trailer.
 
 ### A Proven Pocket Cruiser
-The Nor'Sea 27 was designed by Lyle Hess, who wanted a boat small enough to be trailerable, without any concession to seaworthiness. With legendary robustness, a long keel and shallow draft, proven bluewater pedigree, the Nor'Sea 27 is a true pocket cruiser offering comfort both at sea and at anchor. About 250 boats were produced using the same original mold. Plume is among the last hulls ever built, making her a rare find.
+The Nor'Sea 27 was designed by Lyle Hess, who wanted a boat small enough to be trailerable, without any concession to seaworthiness. With legendary robustness, a long keel and shallow draft, proven bluewater pedigree, the Nor'Sea 27 is a true pocket cruiser offering comfort both at sea and at anchor. Plume is among the last hulls ever built, making her a rare find.
 
 ### Craftsmanship and Build Story
 Plume was built at the Nor’Sea Yachts boatshop in Ontario, California. We bought her as a Kit Boat \#3, which included the hull, deck, main cabinetry, and standing rigging. In addition, we hired the factory carpenter for the complex work requiring true craftsmanship. We handled the remaining work, including painting, trimming, plumbing, electricity, and deck equipment. We spent many weekends down at the boatshop in Ontario to work on the boat while the kit was being built. That way we benefited from the boatshop’s tools and expertise. As a result, and as mentioned in a 2022 survey: *“The quality of the interior and exterior finishes is on par with a factory-finished boat.”* 
@@ -95,7 +95,7 @@ More information on the Nor’Sea 27 can be found in:
 
 #### Contact
 
-Plume is available for viewing in Brisbane Marina, California.   
-Please contact us if you are interested at [plume@flupes.org](mailto:plume@flupes.org).
+Plume is available for viewing at Brisbane Marina, California.
+If you’re interested, please contact us at [plume@flupes.org](mailto:{{ site.email }}) and tell us a little about why you’d like to be her next skipper. The asking price reflects her condition and equipment. We’re looking for a buyer who recognizes and values her pedigree and care.
 
 ----
