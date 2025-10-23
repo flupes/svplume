@@ -4,11 +4,15 @@ permalink: /listing/
 layout: default
 ---
 
-# 2002 Nor’Sea 27 \- US $67,000
+# 2002 Nor’Sea 27 \- US$64,000
 
-{% picture listing/banner-right_DSCF6969.jpg --alt Plume 2025 %}
+{% picture listing/banner-right_DSCF6969.jpg --alt Plume 2025
+  --link https://photos.flupes.org/Public/Plume/NorSea27-Plume %}
 <br>
-*Plume is visible at Brisbane Marina, California*
+*Plume is available for viewing in [Brisbane Marina](https://maps.app.goo.gl/euHDXdj56qzSo6YG6), California.*
+
+[Listing Photo Gallery](https://photos.flupes.org/Public/Plume/NorSea27-Plume) --- [Complete 2025 Inventory]({%link inventory.md%})
+{: style="text-align: center; font-weight: bold;"}
 
 Plume, a 2002 Nor’Sea 27, is among the final hulls built to Lyle Hess’s legendary pocket-cruiser design. Maintained in Bristol condition, with low engine hours and outfitted for offshore sailing, she is offered by her original owners with a custom-built 2009 Pacific trailer.
 
@@ -37,7 +41,7 @@ The ***engine compartment*** is accessible through four dedicated hatches, ensur
 On ***deck***, Plume is well-equipped for offshore cruising, with a full sail inventory, a three-reef mainsail setup, and a masthead sloop rig optimized for shorthanded sailing. She carries robust self-steering and autopilot systems, solar panels (one fixed and one mobile), jacklines, and a liferaft, along with additional safety gear including an EPIRB and AIS. Quality hardware throughout includes Lewmar Ocean Series winches. Her anchoring system is comprehensive, with an exceptionally reliable 15 lb main anchor rigged on 120 ft of chain and 150 ft of line (270 ft total rode), complemented by a storm anchor and a stern anchor.
 
 ### Refit
-Starting in fall 2019, Plume underwent a comprehensive refit. Every element and system from bow to stern was inspected to identify anything in need of repair or replacement. Some of the key upgrades are noted under **[Inventory]({%link inventory.md%})** below with their respective years noted.
+Starting in fall 2019, Plume underwent a comprehensive refit. Every element and system from bow to stern was inspected to identify anything in need of repair or replacement. Some of the key upgrades are noted under **[Inventory]({%link inventory.md%})** with their respective years.
 
 ### Reason for Sale
 We are selling Plume as we begin a new chapter with a different cruising program aboard a 40’ aluminum sailboat in France. Though it is hard to part with Plume, we look forward to meeting her next owners and watching them enjoy an exceptional boat ready for her next adventures.
@@ -76,6 +80,7 @@ We are selling Plume as we begin a new chapter with a different cruising program
 * Fuel Type: Diesel  
 * Propeller Type: 2 Blade
 
+### [Complete 2025 Inventory]({%link inventory.md%})
 <br>
 
 ----
@@ -93,7 +98,3 @@ Plume is available for viewing in Brisbane Marina, California.
 Please contact us if you are interested at [plume@flupes.org](mailto:plume@flupes.org).
 
 ----
-
-<br>
-
-### [Complete 2025 Inventory]({%link inventory.md%})
