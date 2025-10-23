@@ -2,6 +2,7 @@
 title: Inventory
 permalink: /inventory/
 layout: default
+description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser for sale by original owners in Brisbane, CA. Fiberglass sloop classic sailboat in bristol condition. Boat inventory.
 ---
 
 # 2002 Nor’Sea 27 \- Inventory
