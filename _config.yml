@@ -7,6 +7,8 @@ description: >-
 baseurl: ""
 url: "https://plume.flupes.org"
 
+google_analytics: G-DCP1XVYJFP
+
 show_excerpts: true
 
 theme: minima
