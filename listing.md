@@ -85,7 +85,7 @@ We are selling Plume as we begin a new chapter with a different cruising program
 * Fuel Type: Diesel  
 * Propeller Type: 2 Blade
 
-### [Check Complete 2025 Inventory ![inventory](/assets/media/imgs/listing/playlist-32.png)]({%link inventory.md%})
+### [Check the full 2025 Inventory ![inventory](/assets/media/imgs/listing/playlist-32.png)]({%link inventory.md%})
 {: class="clickable-link"}
 <br>
 
