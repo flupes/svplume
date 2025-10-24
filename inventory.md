@@ -12,8 +12,12 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 <br>
 *Recent key upgrades have dates noted in bold*
 
-[![camera](/assets/media/imgs/listing/camera-32.png)&nbsp;&nbsp;Photo Gallery](https://photos.flupes.org/Public/Plume/NorSea27-Plume)&nbsp;&nbsp;---&nbsp;&nbsp;[Listing&nbsp;&nbsp;![listing](/assets/media/imgs/listing/document-32.png)]({%link listing.md%})
-{: style="text-align: center; font-weight: bold; font-size: 1.1em;"}
+<div style="text-align: center; font-weight: bold; font-size: 1.1em;">
+<a href="https://photos.flupes.org/Public/Plume/NorSea27-Plume" class="clickable-link">
+<img src="/assets/media/imgs/listing/camera-32.png" alt="camera"> Photo Gallery</a>
+&mdash;
+<a href="{%link listing.md%}" class="clickable-link">Listing <img src="/assets/media/imgs/listing/document-32.png" alt="listing"></a>
+</div>
 
 ## Sails & Rig
 
@@ -194,4 +198,5 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 * Stored on blocks with wheel covers, rollers stored inside, may require service
 
 
-[Back to Plume Listing]({%link listing.md%})
+### [Back to Plume Listing ![listing](/assets/media/imgs/listing/document-32.png)]({%link listing.md%})
+{: class="clickable-link"}

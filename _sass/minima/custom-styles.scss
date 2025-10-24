@@ -123,3 +123,16 @@ strong, b {
 .stop-wrap {
   clear: both;
 }
+
+.clickable-link {
+    display: inline-block;
+    padding: 0.5em;
+    margin: 0 0.5em;
+    cursor: pointer;
+    transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.clickable-link:hover {
+    box-shadow: 0 0 8px #007bff;
+    transform: scale(1.10);
+}

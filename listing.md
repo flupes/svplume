@@ -12,8 +12,12 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 <br>
 *Plume is available for viewing in [Brisbane Marina](https://maps.app.goo.gl/euHDXdj56qzSo6YG6), California.*
 
-[![camera](/assets/media/imgs/listing/camera-32.png)&nbsp;&nbsp;Photo Gallery](https://photos.flupes.org/Public/Plume/NorSea27-Plume)&nbsp;&nbsp;---&nbsp;&nbsp;[Inventory&nbsp;&nbsp;![listing](/assets/media/imgs/listing/playlist-32.png)]({%link inventory.md%})
-{: style="text-align: center; font-weight: bold; font-size: 1.1em;"}
+<div style="text-align: center; font-weight: bold; font-size: 1.1em;">
+<a href="https://photos.flupes.org/Public/Plume/NorSea27-Plume" class="clickable-link">
+<img src="/assets/media/imgs/listing/camera-32.png" alt="camera"> Photo Gallery</a>
+&mdash;
+<a href="{%link inventory.md%}" class="clickable-link">Inventory <img src="/assets/media/imgs/listing/playlist-32.png" alt="inventory"></a>
+</div> 
 
 Plume, a 2002 Nor’Sea 27, is among the final hulls built to Lyle Hess’s legendary pocket-cruiser design. Maintained in Bristol condition, with low engine hours and outfitted for offshore sailing, she is offered by her original owners with a custom-built 2009 Pacific trailer.
 
@@ -81,7 +85,8 @@ We are selling Plume as we begin a new chapter with a different cruising program
 * Fuel Type: Diesel  
 * Propeller Type: 2 Blade
 
-### [Complete 2025 Inventory]({%link inventory.md%})
+### [Check Complete 2025 Inventory ![inventory](/assets/media/imgs/listing/playlist-32.png)]({%link inventory.md%})
+{: class="clickable-link"}
 <br>
 
 ----
