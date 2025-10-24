@@ -101,6 +101,6 @@ More information on the Nor’Sea 27 can be found in:
 #### Contact
 
 Plume is available for viewing at Brisbane Marina, California.
-If you’re interested, please contact us at [plume@flupes.org](mailto:{{ site.email }}) and tell us a little about why you’d like to be her next skipper. The asking price reflects her condition and equipment. We’re looking for a buyer who recognizes and values her pedigree and care.
+If you're interested, please contact us at <a href="mailto:{{ site.email }}">plume&#64;flupes&#46;org</a> and tell us a little about why you'd like to be her next skipper. The asking price reflects her condition and equipment. We're looking for a buyer who recognizes and values her pedigree and care.
 
 ----
