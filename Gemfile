@@ -11,6 +11,7 @@ gem "minima", "= 2.5.1"
 group :jekyll_plugins do
   gem "jekyll-feed"          # keep your feed
   gem "jekyll_picture_tag"   # responsive images (libvips-based)
+  gem "jekyll-sitemap"       # generates a sitemap for easier indexing
 end
 
 # Local dev convenience on Ruby 3.x for `jekyll serve`

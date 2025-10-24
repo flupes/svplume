@@ -16,6 +16,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll_picture_tag
+  - jekyll-sitemap
 
 header_pages:
   - journey.md
