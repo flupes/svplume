@@ -57,12 +57,18 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 
 ## Electronics & Navigation
 
-* Nav station with 15″ display \+ low-power single board computer for OpenCPN cartography (**2019**)  
+* Nav station with 15″ display \+ low-power single board computer for OpenCPN
+  cartography (**2019**)  
 * AIS WatchMate XB-8000 transceiver with masthead antenna  
-* Vesper Marine VHF/AIS/FM antenna splitter VM-SP160   
+* Vesper Marine VHF/AIS/FM antenna splitter VM-SP160  
 * VHF: Standard Horizon HX870 handheld  
 * SSB: Icom IC-706MK2G \+ AH-4 automatic tuner  
-* GPS/Chartplotter: Garmin ECHOMAP Plus 74cv with BlueChart G3 Charts and Transducer, 7” touchscreen color display (**2019**)  
+* GPS/Chartplotter: Garmin ECHOMAP Plus 74cv with BlueChart G3 Charts and
+  Transducer, 7” touchscreen color display (**2019**)
+* Depth sounder Garmin GT15M-IH transducer mounted inside the hull (**2019**)
+* Airmar ST-300 speedometer / temperature transducer
+  * the sensor in working, however, the wireless solar Tacktik display is not
+    charging anymore
 * Wind: Davis Windex masthead vane  
 * Compass: Ritchie Powerdamp  
 * Stereo: Kenwood KDC-MPV7019 AM/FM/CD with Bose speakers  
@@ -81,7 +87,8 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 * Balmar 80A alternator w/ ARS-5 regulator \+ DuoCharge
 * ProTech 1220i 20 A (3 banks) shore charger
 * Xantrek LinkLite battery monitor (measure real charge)
-* 3 circuit breakers for the 2 battery bank allows optimal switching in emergency
+* 3 circuit breakers for the 2 battery bank allows optimal switching in
+  emergency
 
 ## Safety
 
@@ -95,7 +102,9 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 * Horn: Safety Blaster
 * Jacklines
 * Deck ladder
-* Bilge pumps: Whale manual in cockpit, Rule 2000 automatic electric
+* 2 bilge pumps:
+  * Whale manual operated from cockpit
+  * Rule 2000 automatic electric with discrete electronic water level sensor
 * Fire protection
   * Kidde extinguisher Halotron 9lb, (2) Kidde extinguishers 4lb
   * Fire blanket (galley)
@@ -105,7 +114,7 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 
 * Main cabin saloon  
   * Cushions (**2020**)
-  * U-shaped dinette 
+  * U-shaped dinette
   * Sliding centerline table (forming a large berth when lowered)
   * (2) Leecloths
   * Shelves and abundant stowage around/under settees
@@ -117,7 +126,8 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
   * Origo 1500 gimbaled alcohol one-burner stove
   * Single-basin stainless primary sink
   * Single-basin built-in secondary sink
-  * Whale freshwater foot pump (**2019**) and Fynspray brass WS66 spout (**2019**)
+  * Whale freshwater foot pump (**2019**) and Fynspray brass WS66 spout
+    (**2019**)
   * Whale salt-water hand pump/spout
   * Large built-in icebox
   * Shelves, cutlery drawer, pantry locker, stowage
@@ -131,7 +141,8 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
   * Two large lockers (port & starboard)
   * Ample access to engine compartment
 * Lighting
-  * 3 Alpenglow with teak frame lights: 2 modified CF with two levels in the cabin and 1 white \+ red LED on the chart table
+  * 3 Alpenglow with teak frame lights: 2 modified CF with two levels in the
+    cabin and 1 white \+ red LED on the chart table
   * 3 reading lights 3 (LED and CF aft cabin) \+ 1 LED light in the head
 * Ventilation
   * 1 dorade (main cabin)
@@ -150,12 +161,13 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 
 * Fuel: 1 × 30 gal aluminum tank (in bilge under engine, glassed in)
 * Water: 2 × 15 gal plastic tanks (under aft cabin stowage, framed and secured)
-* (5) Thru-hulls: Bronze
-  * 2 below the waterline (replaced in **2019** and **2024**)
-  * 3 above the waterline
-* Speedometer / temperature sensor ST300
-* Depth sounder Garmin GT15M-IH transducer mounted inside the hull (**2019**)
-* PowerSurvivor 40E watermaker: all connections in place, but watermaker has been taken out of the boat and would need service
+* (6) Thru-hulls: Bronze
+  * 3 below the waterline (replaced engine intake **2019** and sink drain
+    **2024**)
+  * 3 above the waterline (cockpit drains and bilge pumps)
+* Standard thru-hull for Airmar instrument (speedometer)
+* PowerSurvivor 40E watermaker: all connections in place, but watermaker has
+  been taken out of the boat and would need service
 
 ## Canvas & Covers
 
