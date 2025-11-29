@@ -67,8 +67,8 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
   Transducer, 7” touchscreen color display (**2019**)
 * Depth sounder Garmin GT15M-IH transducer mounted inside the hull (**2019**)
 * Airmar ST-300 speedometer / temperature transducer
-  * the sensor in working, however, the wireless solar Tacktik display is not
-    charging anymore
+  (the sensor is working, however, the wireless solar "tacktick" display is not
+    charging anymore)
 * Wind: Davis Windex masthead vane  
 * Compass: Ritchie Powerdamp  
 * Stereo: Kenwood KDC-MPV7019 AM/FM/CD with Bose speakers  
