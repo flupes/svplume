@@ -1,11 +1,11 @@
 ---
-title: For Sale
+title: Listing
 permalink: /listing/
 layout: default
 description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser for sale by original owners in Brisbane, CA. Fiberglass sloop classic sailboat in bristol condition. Boat listing.
 ---
 
-# 2002 Nor’Sea 27 \- US$64,000 (Under Contract)
+# 2002 Nor’Sea 27 \- Sold (Feb. 2026) <!-- US$64,000 (Under Contract) -->
 
 {% picture listing/banner-right_DSCF6969.jpg --alt Plume 2025
   --link https://photos.flupes.org/Public/Plume/NorSea27-Plume %}
