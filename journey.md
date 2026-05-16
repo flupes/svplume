@@ -108,7 +108,7 @@ many repairs and replacements completed during this extensive refresh.
 ---
 
 {% picture journey/Journey_Plume_CA.jpg --alt california --img class="img-right" %}
-## 2020-2025: California Sailing
+## 2020-2026: California Sailing
 
 During the summer of 2020, our plan was to trailer Plume to Canada and sail in
 British Columbia. The project was canceled because of Covid-19. Instead, we
