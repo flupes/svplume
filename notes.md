@@ -20,4 +20,4 @@ In VSC Source Control:
 - Stage the content changes
 - Document your commit
 - Commit
-- Synchronive to deploy at https://plume.flupes.org/
+- Synch Changes to deploy at https://plume.flupes.org/
