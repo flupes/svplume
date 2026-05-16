@@ -118,4 +118,4 @@ downgraded our dreams and continued
 Meanwhile, to keep Plume in Bristol condition, we kept up with [maintenance and
 upgrades]({{site.baseurl}}/projects), with new 80% jib, prop, and batteries,
 along with other [improvements]({{site.baseurl}}/blog) to ensure she stays ready
-for the miles ahead.
+for the miles ahead. Plume was [sold]({{site.baseurl}}/listing) in February 2026.
