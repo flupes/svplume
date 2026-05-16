@@ -35,16 +35,16 @@ Inspired from: https://www.shouvikbasak.net/website/jekyll-on-macos-apple-m1-sol
 
     sudo apt install libvips libvips-dev libpng-dev libjpeg-turbo8-dev libwebp-dev libheif-dev
 
-## Jekyll toochain
+## Jekyll toochain (CP: if new package)
 
     cd svplume
     bundle install
 
-### Serve locally
+### Serve locally (CP: to test locally)
 
     bundle exec jekyll serve
 
-### Build for deployment
+### Build for deployment (replaced by Actions)
 
     bundle exec jekyll build
     rsync --archive --delete _site/ hws:/var/www/plume --verbose

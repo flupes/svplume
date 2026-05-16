@@ -85,14 +85,13 @@ We are selling Plume as we begin a new chapter with a different cruising program
 * Fuel Type: Diesel  
 * Propeller Type: 2 Blade
 
-### [Check the full 2025 Inventory ![inventory](/assets/media/imgs/listing/playlist-32.png)]({%link inventory.md%})
+### [Check the full Inventory ![inventory](/assets/media/imgs/listing/playlist-32.png)]({%link inventory.md%})
 {: class="clickable-link"}
 <br>
 
 ----
 
 #### More Information
-
 More information on Plume can be found at [plume.flupes.org](http://plume.flupes.org).  
 More information on the Nor’Sea 27 can be found in:
 [Sailing Magazine](https://sailingmagazine.net/article-530-nor%E2%80%99sea-27.html) and [SailboatData](https://sailboatdata.com/sailboat/norsea-27/).
