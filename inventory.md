@@ -199,7 +199,7 @@ description: 2002 Nor'Sea 27 For Sale. Norsea27, 27ft pocket blue water cruiser 
 ## Trailer
 
 * PACIFIC G27TRI5-15 Tri-Axle Nor’Sea 27 Special Trailer
-* Purchased new in **2009** for $8995
+* Purchased new in **2009**
 * Disc Brakes
 * Special Roller System
 * 3x5 Tube Frame

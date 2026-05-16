@@ -94,13 +94,7 @@ We are selling Plume as we begin a new chapter with a different cruising program
 #### More Information
 
 More information on Plume can be found at [plume.flupes.org](http://plume.flupes.org).  
-A 2022 survey is available upon request.  
 More information on the Nor’Sea 27 can be found in:
 [Sailing Magazine](https://sailingmagazine.net/article-530-nor%E2%80%99sea-27.html) and [SailboatData](https://sailboatdata.com/sailboat/norsea-27/).
-
-#### Contact
-
-Plume is available for viewing at Brisbane Marina, California.
-If you're interested, please contact us at <a href="mailto:{{ site.email }}">plume&#64;flupes&#46;org</a> and tell us a little about why you'd like to be her next skipper. The asking price reflects her condition and equipment. We're looking for a buyer who recognizes and values her pedigree and care.
 
 ----
